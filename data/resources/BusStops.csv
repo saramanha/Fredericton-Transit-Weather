@@ -1,0 +1,672 @@
+﻿X,Y,OBJECTID,Location,RouteName,Type_1,StopSurface,Sidewalk,Name,SharedSignage,Additional,Garbage,Bench,SignCondition,PoleCondition,NumberSigns,Shelter,ShelterCondition,Accessibility,WidthSidewalk,SnowRemoval,GlobalID,Route_s
+-66.63028713,46.01368444,1,Killarney Lake Lodge,12N Brookside/ 13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,1,No,,No,No,Good,Other,1,,,Level 1: ADA Compliant,,,{B6C773D6-7F25-4B93-8A14-C711263C0745},12 & 13
+-66.63282428,46.01216142,2,1265 Brookside,13S Prospect,Standard on Metal Pole,Gravel,No,2,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{C38E340D-8484-44DE-8E00-20FCD9928144},13
+-66.64048813,46.00858644,3,Julien,13S Prospect,Standard on Wooden Pole,Dirt,No,4,No,,No,No,Good,Other,1,,,Level 3: Not Accessible,,,{0BBC872A-E356-4BB3-B74E-4B0DB24BA96E},13
+-66.63753113,46.00669144,4,1037 Brookside,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,5,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{409D94EF-BDCD-4A87-8F1E-B7FB04E0AEB3},13
+-66.64241913,46.00110144,5,Brookside & Heron,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,6,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{15D7C408-E0DB-41B9-91E8-334EFE86EB31},13
+-66.64503414,45.99816144,6,665 Brookside,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,7,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{9D25F7E3-6E03-4F79-B507-2BDA030A858C},13
+-66.64603924,45.99696447,7,641 Brookside,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,8,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{1B63A358-51A1-4A04-BEAF-A1C77589AAFA},13
+-66.64903644,45.99493922,8,8 Terrance,13S Prospect,Standard on Metal Pole,Concrete,Yes Boulevard,9,Yes,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{623B4C61-538D-4277-9DE9-A56AB89E6606},13
+-66.6506704,45.9956686,9,88 Terrance,13S Prospect,Standard on Metal Pole,Concrete,Yes Boulevard,10,Yes,,No,No,Good,Good,2,Other,,Level 1: ADA Compliant,,,{B40BCE21-64D7-4D7A-B9E0-0572EB48D433},13
+-66.65281686,45.99659044,10,Terrance & Stairs,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,11,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{192EE25A-1A6B-46AC-87FE-2FEE7D3436DC},13
+-66.65441814,45.99530244,11,Jeremy & Stairs,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,13,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{72B3CADD-1ACF-418E-BE0C-C5469C57374F},13
+-66.65480014,45.99359744,12,Brookside Mall on McKnight,13S Prospect,Shelter,Concrete,Yes Boulevard,14,No,Retake photo,No,Yes,Good,,1,Metal,Fair,Level 1: ADA Compliant,,RO,{9253D780-F92D-475E-AE53-06946B74B5F0},13
+-66.65610167,45.99164197,13,95 McKnight,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,15,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{4895915E-B866-4469-ABBD-F11AA2C9BEFA},13
+-66.65816011,45.99170973,14,187 McKnight,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,16,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{BC6DD7FA-4858-435A-9079-3968FD4C2210},13
+-66.66058514,45.99190444,15,235 McKnight,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,17,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,RO,{B9B04EF7-0EF8-4F63-BDE4-4D6E0668E379},13
+-66.66345531,45.99137489,16,Barton & Jennings,13S Prospect,Standard on Metal Pole,Dirt,No,18,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{1464F007-728D-4C81-91A6-9969A48041C8},13
+-66.66544966,45.99154447,17,9 Barton,13S Prospect,Standard on Metal Pole,Dirt,No,19,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{31DE1724-03DF-403A-998E-809A886D5C33},13
+-66.66485551,45.98823223,18,57 Royal,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,20,Yes,Retake,No,No,Good,Good,3,,,Level 2: Accessible,,RO,{D767A5A0-CC9D-46C1-A9D3-01390BCE9D05},13
+-66.66459873,45.9870704,19,45 Royal,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,21,No,,No,Yes,Good,Good,1,,,Level 2: Accessible,,RO,{281E294D-0A65-4B0F-8A49-D3AD5DE60B12},13
+-66.66343812,45.98567395,20,14 Hawkins,13S Prospect,Shelter,Concrete,No,23,No,,No,Yes,Good,Fair,1,Metal,Good,Level 1: ADA Compliant,,,{6A120695-635D-44D9-AB9F-C30D9CDCDBA7},13
+-66.65990895,45.98473517,21,52 Hawkins,13S Prospect,Standard on Metal Pole,Dirt,No,24,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{1F4B8757-CD1C-4860-B072-CD4F2323978C},13
+-66.65692714,45.98405344,22,156 Brookside,13S Prospect,Standard on Metal Pole,Concrete,No,26,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{E78076ED-40C8-4B97-A2CF-17B1AEAC42A4},13
+-66.65589821,45.98562345,23,196 Brookside,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,27,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,,{8CC9B861-6B0B-427F-B033-4821B8855DFA},13
+-66.65458371,45.98712612,24,204 Brookside,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,28,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,,{C0D33FDF-1120-4350-811C-C3E32FA2E696},13
+-66.65178673,45.98857266,25,1035 Douglas,13S Prospect,Shelter with Metal Pole,Concrete,Yes Boulevard,30,Yes,,No,Yes,Good,Good,2,Glass,Good,Level 1: ADA Compliant,,RO,{C3F45E7B-8383-40DD-819B-579D083F7A74},13
+-66.64737317,45.98985987,26,917 Douglas,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,31,No,Retake,No,No,Unknown,Good,1,,,Level 2: Accessible,,,{D7772275-EF4B-47DB-93AB-950F9F5B254F},13
+-66.64665214,45.98944544,27,561 Fulton,13S Prospect,Standard on Metal Pole,Dirt,No,32,No,,No,No,Fair,Other,1,,,Level 3: Not Accessible,,,{987DA1BB-7109-4E25-A741-BED8CC1EAFC9},13
+-66.6468137,45.98810726,28,447 Fulton,13S Prospect,Standard on Metal Pole,Dirt,No,33,No,,No,No,Unknown,Other,1,,,Level 2: Accessible,,,{5829A2B2-9A8E-4A1C-9A75-523B37C02643},13
+-66.65043701,45.98413995,29,299 Fulton,13S Prospect,Standard on Metal Pole,Dirt,No,37,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{130C62AF-BEAB-4BB2-BC9D-B7A332398409},13
+-66.65153555,45.98237071,30,211 Fulton,13S Prospect,Standard on Metal Pole,Dirt,No,38,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{0E2FA91B-76C1-4020-8D11-8168875D24CF},13
+-66.65139039,45.98094129,31,Maple near Fulton,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,39,Yes,Retake._ branches cover it,No,No,Good,Good,2,,,Level 2: Accessible,,,{CD0C6843-6F1C-4069-8C85-C046FEAFBA2C},13
+-66.64929647,45.98027924,32,301 Maple,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,40,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{DB53A9EA-A131-477B-B4C2-C42CB0CD3F0F},13
+-66.64651612,45.97936491,33,Maple near Oak,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,41,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{B9232934-267C-434D-8BA1-E1B7E65993BE},13
+-66.64430436,45.97867114,34,573 Maple,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,43,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{9CF14F81-7841-411A-9B36-642F066C145A},13
+-66.64190173,45.97792614,35,589 Maple,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,45,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{D682AA2A-D1F8-43E4-98B9-5AEDB91610B4},13
+-66.63967706,45.97721814,36,601 Maple,13S Prospect,Shelter with Metal Pole,Concrete,Yes Monolithic,46,No,,No,Yes,Good,Good,1,Metal,Fair,Level 1: ADA Compliant,,RO,{DF92B61C-DA62-4A7C-BA57-495A231E632A},13
+-66.65966561,45.95763997,37,Waggoners & Simpson,13S Prospect,Shelter,Concrete,Yes Monolithic,63,,,,,,,,,,Level 1: ADA Compliant,,RO,{F44EA3C6-6E97-46C7-B10D-4E9FB1AA8BC2},
+-66.65858554,45.95594508,38,575 Smythe,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,64,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{48CB4F11-DCCB-4446-BC62-D9754D0FCE49},13
+-66.66045214,45.95372743,39,687 Smythe,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,66,Yes,,No,No,Good,Fair,2,,,Level 2: Accessible,,,{A48B7341-B52E-4A7C-A952-B6698075ABB7},13
+-66.66208162,45.95174551,40,795 Smythe,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,67,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{AAF5233D-541B-4756-865A-92EFDFE6F216},13
+-66.66393048,45.94954249,41,905 Smythe,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,68,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{97F599D7-3C87-4255-A606-C666AF1F22A8},13
+-66.66553014,45.94762043,42,989 Smythe,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,69,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{62AFEC3F-33E4-4343-AAF3-8FACCA85062D},13
+-66.66746272,45.94604107,43,252 Parkside,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,70,No,,No,No,Fair,Other,1,,,Level 2: Accessible,,,{AE7C250E-9B0E-4460-8002-0E158A679B73},13
+-66.67036654,45.94615802,44,125-135 Parkside,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,71,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{C671DCCE-F812-4336-9F8B-22BF159E3CBD},13
+-66.67287024,45.94562777,45,245 Parkside,13S Prospect,Standard on Metal Pole,Concrete,Yes Boulevard,72,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{282CFF0D-DE09-4372-BB4F-6166DC4E0224},13
+-66.67632583,45.94612805,46,45 Greenfields,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,75,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{B5E09E24-1048-4C34-99B3-84C8E76FC145},13
+-66.67598788,45.94508768,47,880 Prospect,13S Prospect,Shelter with Metal Pole,Concrete,Yes Boulevard,76,Yes,,No,Yes,Good,Good,2,Glass,Good,Level 2: Accessible,,RO,{77EE2BF4-6F00-49DA-AAA4-3DA824F1869C},"13, 14"
+-66.67369214,45.94411543,48,924 Prospect,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,77,No,,No,No,Good,Other,1,,,Level 2: Accessible,,RO,{8723D06F-0FFB-496E-8394-C6ECF6261DE7},"13, 14"
+-66.67099638,45.94295425,49,984 Prospect,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,78,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{C725655B-48B9-41C9-9DA9-43791E5FCE0E},"13, 14"
+-66.66829235,45.94175527,50,1034 Prospect,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,79,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{58016D48-0645-4F1E-A6AF-9BF7898295DA},"13, 14"
+-66.66241873,45.93958758,51,Prospect/ Uptown Ctr,13S Prospect,Shelter with Metal Pole,Concrete,Yes Boulevard,81,No,Retake,No,Yes,Unknown,Good,1,Glass,Good,Level 2: Accessible,,RO,{4993B150-4006-47B1-8DEA-56820C596CA4},"13, 14"
+-66.66810904,45.94195604,52,1029 Prospect,12N Brookside ,Shelter with Metal Pole,Gravel,Yes Boulevard,88,Yes,Retake ,No,Yes,Good,Good,2,Glass,Good,Level 2: Accessible,,RO,{DED68541-7555-4458-A4F3-A69F6E381F52},12
+-66.67140714,45.94334443,53,967 Prospect,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,90,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{DF1044C0-F48D-4932-BDC0-5507B4FF4F82},"12, 15"
+-66.67377314,45.94438043,54,919 Prospect,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,91,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,RO,{97661560-5A54-4D7C-98FF-65DF4AD4828D},"12, 15"
+-66.67556677,45.94511933,55,867 Prospect,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,92,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{384C0E7D-CE4E-4C4F-8800-0E5B91F3BDEE},"12, 15"
+-66.67625667,45.94607943,56,Greenfields/  Prospect,12N Brookside ,Standard on Metal Pole,Dirt,No,93,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{C246D88C-63EA-4708-8B47-ACB885D57B24},12
+-66.67483536,45.9467031,57,102 Greenfields,12N Brookside ,Standard on Metal Pole,Concrete,No,94,Yes,,No,No,Good,Good,4,,,Level 2: Accessible,,,{C77914F7-CB5D-4CC3-AB1B-22259ED0BAA2},12
+-66.67358869,45.94628282,58,290 Parkside,12N Brookside ,Standard on Metal Pole,Dirt,No,95,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{06713819-4258-4F40-9A70-8C8D1CF9BF2E},12
+-66.6728479,45.94546926,59,240 Parkside,12N Brookside ,Shelter,Dirt,No,96,No,Metal shelter. No sign.,,Yes,Good,,1,Metal,Fair,Level 3: Not Accessible,,,{19438E4F-0AC1-4F5F-B342-B82A8E22FFB9},12
+-66.67081853,45.94578949,60,144 Parkside,12N Brookside ,Standard on Metal Pole,Dirt,No,97,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{DBAA5CCB-9965-4251-8126-3413D1CC1339},12
+-66.66857687,45.94608248,61,76 Parkside,12N Brookside ,Standard on Metal Pole,Dirt,No,98,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{7DF5A0B4-B68E-4C44-AB9A-1B286884487F},12
+-66.6660091,45.94672466,62,1040 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,99,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{98E6B33A-D8A1-437B-A4CC-8878BD73F8F1},12
+-66.6652514,45.94763868,63,986 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,100,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{F03777AB-5375-41F2-A189-01EE9CED4E1A},12
+-66.66381632,45.94936505,64,916 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,101,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{87B73E0B-E149-4F3E-A5EF-4FED9BBCCB7D},12
+-66.66177014,45.95182643,65,794 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,102,Yes,Rusting,No,No,Good,Fair,2,,,Level 2: Accessible,,,{B70FEC0D-E48F-42AB-A406-75D24E9838FC},12
+-66.66029714,45.95357943,66,696 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,103,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{BBFE3AAE-1929-4567-BC66-8F0AFEBB3FCC},12
+-66.65937162,45.95469298,67,634 Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,104,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{D6C37438-F5D3-4D3E-9173-01F4B54A8B51},12
+-66.65836037,45.95591156,68,580Smythe,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,105,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{6ABE2B2F-03FA-411D-AA09-041A0104BD6C},12
+-66.65940612,45.95770278,69,Superstore,12N Brookside ,Shelter,Concrete,Yes Boulevard,106,No,Glass Shelter,No,Yes,Good,,1,Glass,Good,Level 1: ADA Compliant,,RO,{D4EA20D9-9151-4918-A1BC-FDE55A970778},12
+-66.64892114,45.96331043,70,130 Northumberland,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,117,Yes,,,,Good,Good,2,,,Level 2: Accessible,,,{4303B373-914F-4568-8F66-0DE7270182F1},"12, 18"
+-66.64349513,45.96315001,71,371 Queen,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,50,No,,No,No,Fair,Good,1,,,Level 1: ADA Compliant,,,{06ED6A8C-ADFE-4482-A605-EAC75393D647},"10,13,12,14,16,18"
+-66.63972749,45.97741314,72,602 Maple,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,122,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO,{E4602528-698F-4D0C-8DCC-5B186FD21DC2},12
+-66.64166779,45.97801526,73,590 Maple,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,123,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{C7A61275-42AC-4EBE-93AC-7B8F60C0C07C},12
+-66.64377421,45.97867258,74,580 Maple,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,124,Yes,,No,No,Poor,Good,3,,,Level 2: Accessible,,,{8E06708B-611D-4716-A2C7-61CA74878B41},12
+-66.64635915,45.97946401,75,318 Maple,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,125,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{253374A9-B7C6-4C84-B2F4-A74836114218},12
+-66.64821814,45.98008144,76,306 Maple,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,126,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{F33B6A75-A085-4720-8BE3-0412622C32DD},12
+-66.65124114,45.98264044,77,212 Fulton,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,128,No,,No,No,Good,Fair,1,,,Level 2: Accessible,,,{A830BE64-1B4E-4622-A5F9-D935F2AB236B},12
+-66.65030483,45.98405421,78,228 Fulton,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,129,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{8EC62172-E8FE-4892-9C16-DAC64F6D9282},12
+-66.64866014,45.98590748,79,306 Fulton,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,130,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO,{C3A361E4-9969-47AA-AD3F-5F64DAF7A07F},12
+-66.64668748,45.98803676,80,480 Fulton,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,131,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{481A9D6C-E92D-4E1A-B35E-6A8740052589},12
+-66.64654931,45.98965424,81,556 Fulton,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,132,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{FFAFBD69-E2FD-4BBC-A675-CA7B85823F15},12
+-66.64929067,45.98949204,82,962 Douglas,12N Brookside ,Standard on Metal Pole,Dirt,No,133,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{D13CF9EF-B02A-4402-80C8-3EACC005C60A},12
+-66.65174414,45.98875944,83,1050 Douglas,12N Brookside ,Standard on Metal Pole,Dirt,No,134,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,RO,{5D52DBD9-66D6-45CD-9FE0-C29A1FF814A8},12
+-66.65395355,45.98803119,84,247 Brookside,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,135,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO,{92552852-C2F1-4B3D-B712-77B8752F88E6},12
+-66.65497314,45.98686744,85,217 Brookside,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,136,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,,{E62D7766-F9C2-47F9-A120-48081334647A},12
+-66.65586102,45.98585616,86,195 Brookside,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,137,Yes,Leaning looks like it was struck.,No,No,Fair,Poor,3,,,Level 1: ADA Compliant,,RO,{6CD60747-90C7-4B7E-B83C-84A1D3A64ACF},12
+-66.65697628,45.98424672,87,159 Hawkins,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,138,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,,{A36D353B-91B7-4B13-AD2F-CAE024DD7D47},12
+-66.65982821,45.98483076,88,55 Hawkins,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,140,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{7CD21507-E8E8-448F-9B94-DD927E519114},12
+-66.66313182,45.98580596,89,Across from 14 Hawkins,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,142,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{0DD26F5F-2378-40B2-A8AD-02E7661FD4EA},12
+-66.66438572,45.98699212,90,50 Royal,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,143,Yes,,No,Yes,Good,Good,3,,,Level 2: Accessible,,RO,{E0CAF58C-B6A6-4892-90F2-FEF8BAD2DF97},12
+-66.66460992,45.98816102,91,60 Royal,12N Brookside ,Standard on Metal Pole,Concrete,Yes Monolithic,144,Yes,Bench,No,No,Good,Good,3,,,Level 2: Accessible,,RO,{E5A3BF3B-D77D-489B-A328-A2D2ED979A13},12
+-66.6646291,45.9915832,92,34 Barton,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,145,No,Retake,No,No,Unknown,Unknown,1,,,Level 2: Accessible,,RO,{304A9EA2-EF23-4348-87C4-BDAA05354B7E},12
+-66.66232706,45.99097222,93,82 Barton Crescent,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,146,No,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{975AC7B9-B207-4DC8-998B-D5D467C9D311},12
+-66.66057962,45.9917565,94,232 McKnight,12N Brookside ,Standard on Metal Pole,Dirt,No,147,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,RO,{E6E1A340-DD1B-4008-978E-2813F9D033D3},12
+-66.65612831,45.99151321,95,120 McKnight,12N Brookside ,Standard on Metal Pole,Dirt,No,149,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{F77E6B48-93C9-447B-A27D-838C7B16C5D9},12
+-66.65462714,45.99357044,96,Brookside Mall on McKnight,12N Brookside ,Shelter,Concrete,No,150,No,,No,Yes,,,0,Metal,Good,Level 1: ADA Compliant,,RO,{3774FE6C-C434-4953-8611-CF78AEEC6813},12
+-66.6536344,45.99608376,97,64 Stairs,12N Brookside ,Standard on Metal Pole,Dirt,No,151,No,,No,No,Unknown,Good,1,,,Level 3: Not Accessible,,,{FB9AF4E6-0D93-47F3-BF65-F99292545DC2},12
+-66.65098873,45.99563744,98,Terrance & Westbrook,12N Brookside ,Standard on Metal Pole,Concrete,No,153,Yes,,No,Yes,Good,Good,1,,,Level 1: ADA Compliant,,,{4A998BF4-581E-466D-B582-4321CB634D4E},12
+-66.64918143,45.99484421,99,33 Terrance,12N Brookside ,Standard on Metal Pole,Concrete,No,154,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{E37762D6-D45C-460C-AB6A-BC1EB011B745},12
+-66.64543104,45.99736596,100,Brookside/Summerhill,12N Brookside ,Standard on Metal Pole,Dirt,No,155,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{A4FD660A-FD22-4937-A234-753AC9586866},12
+-66.64439248,45.99858886,101,Brookside & Peters,12N Brookside ,Standard on Metal Pole,Dirt,No,156,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{5CE4C9A7-AD6D-43B3-B578-777B520437C1},12
+-66.64170551,46.00162819,102,Brookside & Heron,12N Brookside ,Standard on Metal Pole,Dirt,No,157,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{58C753A3-514A-40B1-9694-2EDC311C3651},12
+-66.63703515,46.00702156,103,Brookside & Jacob,12N Brookside ,Standard on Metal Pole,Dirt,No,158,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{32DB05A9-DCF8-4B3E-A45E-CEFC5739C9BF},12
+-66.63267278,46.01208836,104,1260 Brookside,12N Brookside ,Standard on Metal Pole,Dirt,No,161,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{03E96F5E-AEB8-4F2C-A5AA-BD6CD52FFDB2},12
+-66.73215216,45.97849744,105,Carlisle Rd,10N Carlisle,Standard on Metal Pole,Dirt,No,809,No,,No,No,,,,,,Level 3: Not Accessible,,,{5F3A854E-4B5F-491D-ADF9-A9A43162D960},10
+-66.72853818,45.97837927,106,967 Clements,10N Carlisle,Standard on Metal Pole,Gravel,No,955,No,,No,No,,,,,,Level 3: Not Accessible,,,{4F202742-50F1-427E-B691-7F5FB1DB84F9},10
+-66.7273625,45.97820968,107,940 Clements,11S Prospect ,Standard on Metal Pole,Gravel,No,810,No,,No,No,,,,,,Level 3: Not Accessible,,,{D4FB0207-9C4C-4652-8057-224CB88CC600},11
+-66.7190093,45.97764855,108,Clements/Pearl,11S Prospect ,Standard on Metal Pole,Dirt,No,812,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{8DB3F5F8-E800-4301-9D1F-901713DC7289},11
+-66.70804864,45.97800187,109,Clements/Grasse,11S Prospect ,Standard on Metal Pole,Dirt,No,815,No,,No,No,,,,,,Level 3: Not Accessible,,,{07991438-B582-455F-8947-2053C299D924},11
+-66.70556036,45.97834433,110,371 Clements,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,948,No,,No,No,,,,,,Level 2: Accessible,,,{615EC630-270B-4293-8110-751D8A7CAB22},10
+-66.70118296,45.97852035,111,Clements/Ruby,11S Prospect ,Shelter,Gravel,No,817,No,,No,Yes,Good,,,Glass,Good,Level 3: Not Accessible,,,{876E3E75-CFFA-4731-B147-8D8AABA74AF5},11
+-66.69817649,45.97872969,112,Sunset/Clements,11S Prospect ,Standard on Metal Pole,Gravel,No,818,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{A123E3A9-8FF4-49F2-A0AB-95879FCB1415},11
+-66.69613161,45.97850428,113,28 Sunset,11S Prospect ,Standard on Metal Pole,Dirt,No,819,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{2E6AF94C-760E-40B5-9F3B-E9AEFEA8C214},11
+-66.69168334,45.97861169,115,64 Sunset,11S Prospect ,Standard on Metal Pole,Gravel,No,821,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{F31D8087-D7B1-4B06-9600-31B0D567F4C8},11
+-66.68745713,45.97803196,116,York Manor,11S Prospect ,Shelter,Concrete,No,822,No,,No,Yes,,,,,,Level 2: Accessible,,RO,{B82A15AB-8AEC-4605-B373-6D9AB2F756E4},11
+-66.68379529,45.97764454,117,120 Sunset,11S Prospect ,Shelter with Metal Pole,Concrete,Yes Monolithic,823,No,,No,Yes,Good,Fair,,Glass,Good,Level 1: ADA Compliant,,,{613E65D7-5502-4F97-956F-83024C579AEC},11
+-66.68205455,45.97762581,118,152 Sunset,11S Prospect ,Standard on Wooden Pole,Dirt,No,824,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{EDFD4650-CF36-4D09-BCD3-DDFF7B065AD9},11
+-66.67902451,45.97760836,119,178 Sunset,11S Prospect ,Standard on Metal Pole,Dirt,No,825,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{6DEFE337-7E40-4A02-85CF-A0EA966E82ED},11
+-66.67619162,45.97827096,120,206 Sunset,11S Prospect ,Shelter,Concrete,Yes Monolithic,826,No,,No,No,Good,,,Glass,Good,Level 1: ADA Compliant,,,{C2FB3054-B45F-41B0-80C6-FE76FCE88A88},11
+-66.67303895,45.98023418,121,245 Sunset,11S Prospect ,Standard on Metal Pole,Dirt,Yes Monolithic,827,No,,No,No,,,,,,Level 2: Accessible,,,{8070C901-B767-486D-B613-77C34CD13852},11
+-66.66522053,45.98391088,122,Sunset/Stone Bridge,11S Prospect ,Standard on Metal Pole,Dirt,No,831,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,RO,{ADE76BF7-83ED-4340-B0E0-722F91D52F74},11
+-66.66339543,45.9836745,123,30 Main,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,832,No,,No,No,,,,,,Level 2: Accessible,,,{9ABAC2D8-59BE-4863-8862-46E19F4A9D11},11
+-66.6617208,45.98190098,124,46 Main,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,833,Yes,,No,Yes,,,,,,Level 2: Accessible,,,{4DF320BA-1353-4F1B-AA44-412A5B52134C},11
+-66.65888059,45.9804487,125,Main/ Brookside,11S Prospect ,Shelter with Metal Pole,Concrete,Yes Monolithic,834,Yes,,No,Yes,,,,,,Level 2: Accessible,,,{54775D6A-E39A-495F-9BAC-B7E440DCEE70},11
+-66.65428045,45.9785499,126,152 Main,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,835,No,,No,Yes,,,,,,Level 2: Accessible,,,{4DDEBDC6-4453-48A4-B92F-B7800176FE48},11
+-66.65248736,45.97777354,127,178 Main,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,836,No,,Yes,Yes,,,,,,Level 2: Accessible,,,{E1838F2C-D1E3-4F5D-989E-BD6725C5FFF2},11
+-66.65040196,45.97686133,128,220 Main,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,837,No,,Yes,No,,,,,,Level 2: Accessible,,,{404D60AF-1C7C-47A8-BAA0-F4DBB6BD78EA},11
+-66.64540899,45.97505608,129,Main/Adler,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,839,No,,Yes,Yes,,,,,,Level 2: Accessible,,,{2EA19B90-D0F7-4296-84E2-0407B1F16EFE},11
+-66.64238267,45.97409518,130,Main/Douglas,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,840,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,,{57D4390A-B1DC-4B54-820E-8B332E5A6283},11
+-66.63852222,45.972849,131,364 Union,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,841,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{B55ACC29-086A-4E45-AD82-E3BBC017636F},11
+-66.63639765,45.97185774,132,418 Union,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,842,No,,No,No,,,,,,Level 2: Accessible,,,{36F15B31-90FD-4537-AC43-9FA28B89C1D0},11
+-66.63478736,45.97199803,133,114 Saint Marys,11S Prospect ,Standard on Metal Pole,Concrete,No,843,No,,No,Yes,Good,,,Other,Fair,Level 2: Accessible,,,{73CA530C-37E1-4620-9F6C-2CA35E45771D},11
+-66.634032,45.97477129,134,Saint Marys / Highland,11S Prospect ,Shelter with Metal Pole,Concrete,Yes Monolithic,349,Yes,,No,Yes,Good,Good,2,Glass,Good,Level 1: ADA Compliant,,,{8E4F19A1-D7DC-4080-9B80-6D9FB7C4E524},"11, 17"
+-66.63571793,45.97615818,135,Maple/ St Marys,11S Prospect ,Shelter,Concrete,Yes Monolithic,478,No,,No,Yes,,,,,,Level 1: ADA Compliant,,RO,{5465B125-B668-4037-AA96-36B7B159CDC1},"11, 15,17"
+-66.63812743,45.95949299,136,670 King,11S Prospect ,Decorative,Concrete,Yes Monolithic,354,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{0B92115E-E402-4732-93AB-D33EAF5DEC1A},"11, 17, 20"
+-66.6326987,45.95587325,137,24 Waterloo,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,851,Yes,,No,No,,,,,,Level 2: Accessible,,,{09944F7C-23B8-4B30-8C08-9096F08C47C7},"11, 20"
+-66.63266162,45.95380322,138,90 Waterloo,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,852,No,,No,No,,,,,,Level 2: Accessible,,,{A580851C-B834-49A2-9C33-CC8B4D8D5EC1},"11, 20"
+-66.6326632,45.95270252,139,126 Waterloo,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,853,No,,No,No,,,,,,Level 3: Not Accessible,,,{0C5A730B-ABE2-42A0-B375-CD2613F25C80},11
+-66.63396953,45.94836297,140,Waterloo/Alexandra,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,854,Yes,,No,No,,,,,,Level 2: Accessible,,,{353EB59C-BBDE-409C-91BC-06AA70E4308D},"11, 20"
+-66.63460362,45.94729355,141,300 Waterloo,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,855,Yes,,No,No,,,,,,Level 2: Accessible,,,{6D209E30-4F30-40B0-8497-F36289B1C1DB},"11, 20"
+-66.63265198,45.94230434,142,567 Waterloo,216 Corbett Centre,Standard on Metal Pole,Dirt,No,586,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{8F051FFD-65A7-42B5-B73D-3E7F0EAB15B1},"11, 20, 216"
+-66.62905665,45.93686683,143,Dunns Crossing/ boyne,11S Prospect ,Shelter,Concrete,No,860,No,,No,No,,,,,,Level 3: Not Accessible,,RO,{18E8B342-6A0B-4EA4-B6A7-7865199C0EED},11
+-66.62846005,45.93398281,144,80 Biggs,11S Prospect ,Standard on Metal Pole,Dirt,No,861,No,,No,Yes,,,,,,Level 3: Not Accessible,,RO,{CC45A36D-5172-42BA-A76E-B9E2BBFF9A44},11
+-66.62787664,45.93253172,145,190 Biggs,11S Prospect ,Standard on Metal Pole,Dirt,No,862,Yes,,No,No,,,,,,Level 3: Not Accessible,,RO,{D6CA5DBA-5E8D-450B-B7D2-38FD052D5288},11
+-66.62871547,45.93195168,146,Forest Hill and Biggs,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,607,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,RO,{F073E773-DA8F-49DF-AE47-52E6D969199A},"11, 216"
+-66.6310521,45.93409465,147,700 Forest Hill,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,608,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{8790C2AE-46E1-46C6-883C-4D69D9754FE7},"11, 216"
+-66.63329909,45.93606799,148,548 Forest Hill,11S Prospect ,Standard on Metal Pole,Dirt,Yes Monolithic,609,Yes,,No,No,,,,,,Level 2: Accessible,,RO,{4CF4BB66-0CAC-4061-ACD4-9409457B609B},119
+-66.63441732,45.93838608,149,348 Forest Hill Residence,11S Prospect ,Shelter,Concrete,Yes Monolithic,866,No,,Yes,No,Good,,,Glass,Good,Level 1: ADA Compliant,,RO,{B760DD9E-5A96-4CB3-A6DB-971ECBACDD47},11
+-66.63390022,45.94098803,150,Forest Hill/ Turnbull,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,867,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{13491DEE-78D0-4B36-8B0D-7B8332BE085D},11
+-66.64208832,45.95142629,151,757 Beaverbrook,11S Prospect ,Shelter,Concrete,Yes Monolithic,663,No,,No,Yes,Good,,,Glass,Good,Level 2: Accessible,,,{D4FD2706-5B3B-4165-A220-C3AAA8B8916F},"11, 116"
+-66.64398041,45.95153678,152,535 Tweedsmuir,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,871,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{AF98A1E7-DF2B-4F98-926A-358BDCC57C82},11
+-66.64332578,45.9495754,153,601 Windsor,11S Prospect ,Standard on Metal Pole,Concrete,Yes Boulevard,872,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,RO,{4FF781E8-4ADB-4847-B118-9CF8CE684B67},11
+-66.64475425,45.94775292,154,717 Windsor,11S Prospect ,Standard on Wooden Pole,Dirt,Yes Boulevard,873,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{9D3B5FDB-1E77-4133-9F87-01E151F7F705},11
+-66.64715752,45.94499727,155,Windsor/Fenety,11S Prospect ,Standard on Metal Pole,Concrete,Yes Boulevard,874,No,,Yes,No,,,,,,Level 1: ADA Compliant,,RO,{6B714CFF-5AEF-4CE6-AE61-F8CC61D1423B},11
+-66.64829313,45.94367043,156,Windsor/ Montgomery,11S Prospect ,Standard on Metal Pole,Concrete,Yes Boulevard,682,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO,{6194D00A-C645-4B77-91A3-41C634DF1B97},11
+-66.65086576,45.94434188,157,667 Montgomery,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,876,Yes,,No,No,,,,,,Level 2: Accessible,,,{4ED09788-F160-4EC7-8E5D-66030D810049},11
+-66.65417138,45.94339585,158,969 Regent,11S Prospect ,Shelter,Concrete,Yes Boulevard,878,No,,No,No,,,,Glass,,Level 1: ADA Compliant,,,{533B2B99-182C-4F16-9FE6-D30E3A6498FA},11
+-66.65518103,45.94226234,159,Regent Medical Center,11S Prospect ,Standard on Metal Pole,Concrete,Yes Boulevard,879,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{CB5FEE83-8BA1-4D05-94CD-ABDADCDDE482},11
+-66.65729296,45.93982934,160,1115 Regent,11S Prospect ,Standard on Metal Pole,Concrete,Yes Boulevard,372,Yes,,No,No,,,,,,Level 1: ADA Compliant,,RO,{176DDAA3-4B5B-4D30-9147-F519B5528A2D},"11, 17"
+-66.65933614,45.93754443,161,Regent Across From City Motel,13S Prospect,Shelter with Metal Pole,Concrete,Yes Boulevard,82,,Retake,No,Yes,,Good,1,Glass,Good,Level 1: ADA Compliant,,RO,{440AF5E7-2934-42E8-A08B-D7E29F468A63},"11,13,17"
+-66.66065214,45.93589343,162,Fredericton Motor Inn,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,83,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{7363B89D-2EEB-4B63-BDC0-891FE46767C7},"11, 13, 17"
+-66.66288114,45.93527443,163,Regent Mall,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,84,Yes,,Yes,Yes,Good,Good,1,,,Level 1: ADA Compliant,,,{C6478180-4955-4F3C-AF0F-197664622156},"17,10,13,12,116,11"
+-66.6590131,45.93739157,164,City Motel 1222 Regent,10N Carlisle,Shelter,Concrete,Yes Monolithic,85,No,Glass Shelter,No,No,,,1,Glass,Good,Level 1: ADA Compliant,,,{DC65F6AA-BB0C-4728-95BF-081E23D7607B},"10,12,16"
+-66.65767878,45.93904756,165,Regent/ Priestman,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,521,Yes,,No,No,,,,,,Level 1: ADA Compliant,,RO,{61F3EE4A-C3D8-4F74-B281-B5CAF1D9B29A},"10, 16"
+-66.65118702,45.94432787,166,650 Montgomery,10N Carlisle,Shelter with Metal Pole,Dirt,Yes Boulevard,890,No,,No,No,,,,,,Level 1: ADA Compliant,,,{D8138243-019B-441A-878D-2CD1B9FFE102},10
+-66.64802063,45.94377794,167,Windsor/ Montgomery,10N Carlisle,Standard on Metal Pole,Concrete,Yes Boulevard,891,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{E13F95F9-6C46-4857-8C6F-F09D2F7A8D6E},10
+-66.64673424,45.94526829,168,814 Windsor,10N Carlisle,Standard on Metal Pole,Concrete,No,892,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{01754A60-9582-415B-9E58-573EF65A722E},10
+-66.64292197,45.9498134,169,550 Windsor,10N Carlisle,Shelter with Metal Pole,Concrete,Yes Monolithic,894,No,,No,No,,,,,,Level 2: Accessible,,RO,{D199F1BF-0E53-45EB-AA1A-7EF5BB0A529B},10
+-66.64382426,45.95152316,170,532 Tweedsmuir,10N Carlisle,Standard on Metal Pole,Dirt,No,895,No,,No,No,,,,,,Level 2: Accessible,,,{CAEF462E-BA57-485F-A791-BCC2906EF382},10
+-66.64235513,45.95141743,171,748 Beaverbrook,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,575,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{03FEC599-2EA2-46BE-9C80-C747D8504CAB},"10, 216"
+-66.63489305,45.94485865,172,9 Forest Hill,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,899,No,,No,No,,,,,,Level 2: Accessible,,,{192A8D46-B402-45E8-B061-A088F37CC070},10
+-66.63419926,45.94074415,173,183 Forest Hill,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,900,No,,No,No,,,,,,Level 2: Accessible,,,{5BBBB323-5DB8-4BA0-808A-C9CF780D96F1},109
+-66.63444398,45.93778555,174,412 Forest Hill,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,901,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{209D84DA-5FAC-4D3B-AE07-7E794FFF8E91},109
+-66.63300623,45.93559751,175,541 Forest Hill,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,639,No,,No,No,Good,Good,1,,,Level 2: Accessible,,RO,{872AEB62-0B58-4370-A486-5C1D8E00A8EC},"10, 116"
+-66.63144786,45.93422327,176,659 Forest Hill,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,640,No,,No,No,,,,,,Level 2: Accessible,,,{CB04C526-84F3-43EE-9FF8-F107203B795D},"10, 116"
+-66.62880513,45.93182543,177,Forest HIll / Biggs,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,642,No,,No,No,,,,,,Level 3: Not Accessible,,RO,{A438B52A-ADA3-4BD7-9828-C13F3EC06BD3},109
+-66.62772195,45.93256013,178,141 Biggs,10N Carlisle,Shelter,Dirt,Yes Boulevard,906,No,,No,Yes,Good,,,Glass,Good,Level 2: Accessible,,RO,{3FF960E6-43CD-47B8-BE09-5AB0C665889F},10
+-66.62837311,45.93416933,179,83 Biggs,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,907,No,,No,No,Good,Good,1,,,Level 2: Accessible,,RO,{546D92E7-EE9C-4204-82B6-5D26AF56E094},10
+-66.62882784,45.9368025,180,Dunns Crossing,10N Carlisle,Shelter,Concrete,Yes Boulevard,908,No,,No,Yes,Good,,,Metal,Fair,Level 1: ADA Compliant,,RO,{86730B44-4F97-4636-97AF-5BD6C07E2E7E},10
+-66.63261313,45.94258376,181,707 Waterloo,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,660,No,,No,No,,,,,,Level 2: Accessible,,,{6E44F26E-042A-4C7D-B9DF-4272F4A86142},"10, 116, 20"
+-66.63322233,45.94382608,182,567 Waterloo,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,661,Yes,,No,No,Good,Good,4,,,Level 2: Accessible,,,{9A0C5FAB-8DDF-4467-B472-89C53EEAD577},"10, 116, 20"
+-66.6340315,45.94795918,183,Waterloo/Acacia,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,912,Yes,,No,No,Good,Fair,2,,,Level 2: Accessible,,,{A6D388EA-76DF-416F-ADE9-CC8488EE3ED5},"10, 20"
+-66.63306622,45.94999862,184,Waterloo/Grey,10N Carlisle,Standard on Metal Pole,Dirt,No,913,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{515B0CA1-221E-496E-9712-AE40E52410F2},"10, 20"
+-66.63245131,45.95288705,185,Waterloo,10N Carlisle,Standard on Metal Pole,Dirt,No,914,Yes,,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{46691AA5-48E8-4CC8-A961-1EBA63135611},"10, 20"
+-66.63268513,45.95505243,186,Waterloo,10N Carlisle,Standard on Metal Pole,Dirt,No,915,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{917FF5EE-4E0A-4D7C-A818-1A2EF4F1E6D5},"10, 20"
+-66.63558212,45.97582033,187,St Marys/ Maple,14N Barkers Point,Shelter,Gravel,No,536,No,,No,Yes,Good,,,Glass,Good,Level 3: Not Accessible,,,{3937C8FC-E26E-44FB-B18E-FACCB935F6E3},"10, 14, 16"
+-66.63420123,45.97490427,188,209 Saint Marys,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,406,No,,No,No,,,,,,Level 2: Accessible,,,{2F5600D2-96F0-430E-8C92-02DA908A51DD},"10, 16"
+-66.63500918,45.97199967,189,113 Saint Marys,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,923,Yes,,No,No,,,,,,Level 1: ADA Compliant,,,{7A78EFE0-F363-4808-B8D1-C755929A3D3D},10
+-66.63806908,45.97283229,190,Union/Smith,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,924,No,,No,No,,,,,,Level 2: Accessible,,,{51759AF0-8DF9-4D2B-AC8A-E1DB254A0988},10
+-66.64195313,45.97409844,191,Union/Douglas,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,925,Yes,,No,No,,,,,,Level 2: Accessible,,,{354671F9-C332-43CF-9F38-2C59B2DCF59D},10
+-66.64574236,45.97534989,192,301 Main,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,926,Yes,,No,Yes,,,,,,Level 2: Accessible,,,{184C7AFF-07EA-4710-8D2F-121A7D31D7EF},10
+-66.64793967,45.9760694,193,Main/Wallace,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,927,No,,No,Yes,,,,,,Level 2: Accessible,,,{FCFC3B42-EB99-4C2C-805C-3DDD65BC1CA1},10
+-66.6504614,45.97710542,194,219 Main,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,982,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{3BED2D2E-064C-420B-8E7F-6DCCDA1282F2},10
+-66.65367578,45.97848587,195,Main/Fulton,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,928,No,,No,Yes,,,,,,Level 2: Accessible,,,{50190083-50CE-4524-A90E-A0D589A47164},10
+-66.65553799,45.97928764,196,123 Main,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,929,No,,No,No,,,,,,Level 2: Accessible,,,{11255E91-FD3E-48EF-954D-30585DF3EF61},10
+-66.65894248,45.98064098,197,Main/Brookside,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,930,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{BABBE5E4-D70C-4DA4-94B3-8A38FEF4E588},10
+-66.66185689,45.98227074,198,59 Main,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,931,No,,No,Yes,,,,,,Level 2: Accessible,,,{5186C9B7-CAA3-4C22-9CF0-2CCB79DB66C1},10
+-66.66529249,45.98401827,199,Sunset/Stone Bridge,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,933,No,,No,No,,,,,,Level 2: Accessible,,,{AB7138B1-DAA3-44D9-947B-09F0340C5DA8},10
+-66.66730322,45.98323798,200,357 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,934,No,,No,No,,,,,,Level 2: Accessible,,,{17EFBF61-76B6-4EA6-956E-5C8B38D8F592},10
+-66.66941934,45.98238993,201,315 Sunset,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,935,No,,No,No,,,,,,Level 2: Accessible,,,{6D74046C-E393-49C0-B44F-4854FFAB162C},10
+-66.67231541,45.98080645,202,251 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Monolithic,936,Yes,,No,No,,,,,,Level 2: Accessible,,,{58DD1148-88B9-458C-A275-B8A788EE523B},10
+-66.67663319,45.97817232,203,205 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Monolithic,937,No,,No,No,,,,,,Level 2: Accessible,,,{7EA2D860-2636-484B-873D-B1CD568651D7},10
+-66.67905732,45.9777505,204,175 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,979,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{744949CB-FF4A-44A5-AB46-0352E9EABA0A},10
+-66.68183215,45.97776744,205,151 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,939,Yes,,No,No,,,,,Good,Level 2: Accessible,,,{91774C03-F9FE-40B4-95E3-175E56972A5A},10
+-66.68403145,45.97778151,206,117 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,940,No,,No,No,,,,,,Level 2: Accessible,,,{D47213F3-0903-4A23-963A-9E9EFBF8318C},10
+-66.6859656,45.97797969,207,York Manor,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,980,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{CB12B558-2693-4913-87DC-861267AF1156},10
+-66.68840127,45.97829343,208,Sunset/Ferris,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,983,No,,No,No,Good,Good,1,,,Level 2: Accessible,,RO,{9DB7B375-D55A-43EB-AB7F-FE7BBDE74F58},10
+-66.6905719,45.9785906,209,81 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,943,No,,No,No,,,,,,Level 2: Accessible,,,{1E78D5DE-9ECB-46D3-B283-568FB9C83934},10
+-66.69385583,45.97882713,210,51 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,No,944,No,,No,No,,,,,,Level 3: Not Accessible,,,{FE219DD2-09EF-4AEE-85DF-4518C6B9CDF5},10
+-66.6961052,45.97864015,211,25 Sunset,10N Carlisle,Standard on Metal Pole,Dirt,No,945,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{0152C569-9794-460B-B03B-019E07C53CD1},10
+-66.70030115,45.97875544,212,257 Clements,10N Carlisle,Standard on Metal Pole,Gravel,No,946,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{6EFFEEEA-80A6-447C-A7E5-EBC330095F24},10
+-66.70241618,45.97856141,213,,,,,,947,,,,,,,,,,,,,{D189668A-A207-48ED-AC4C-0C85ADF33462},
+-66.70774228,45.97820943,214,Clements/Grasse,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,949,Yes,,No,No,,,,,,Level 2: Accessible,,,{CA94BCF3-5453-4E25-9BAC-1679CFF8C83C},10
+-66.71076816,45.97806334,215,Clements/Gardiner,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,950,No,,No,No,,,,,,Level 2: Accessible,,,{DAB98011-AB03-44F5-9D77-93E5A257E978},10
+-66.71554115,45.97777483,216,Clements/Spencer,11S Prospect ,Standard on Metal Pole,Dirt,Yes Boulevard,951,No,,No,No,,,,,,Level 2: Accessible,,,{1F6AA14D-F07F-4241-9E29-EE28C781EBBA},11
+-66.72093067,45.97787162,217,Clements/McGreggor,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,953,Yes,,No,No,,,,,,Level 2: Accessible,,,{1603D665-04D0-4FFF-AD8F-3426FDF48CA8},10
+-66.6409562,45.95861413,218,Regent / George,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,569,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,,{4B785A64-C034-4347-BD22-F9187D97216D},216
+-66.64173613,45.95779043,219,229 Regent,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,570,Yes,,No,No,,,,,,Level 2: Accessible,,,{CED09684-5316-4173-BB6A-07466A655CF3},216
+-66.64295413,45.95630443,220,315 Regent,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,571,Yes,,No,No,,,,Glass,Good,Level 2: Accessible,,,{F74D019B-DC9F-43A7-B246-351BB88C48A4},216
+-66.64391813,45.95525243,221,379 Regent,216 Corbett Centre,Shelter,Concrete,Yes Monolithic,572,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{9674228F-E352-4EF5-BBDA-2BEC8E008FFA},216
+-66.64484813,45.95424243,222,Regent/McLeod,216 Corbett Centre,Standard on Metal Pole,Concrete,Yes Monolithic,573,No,,No,No,,,,,,Level 2: Accessible,,RO,{69DF111D-D005-44D8-AA47-853CA379E5AD},216
+-66.64480755,45.95257798,223,638 Beaverbrook,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,574,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{429E4D03-B251-4F7F-849D-3A5860BADB4A},216
+-66.62687313,45.92961043,224,366 Kimble,116 Kings Place,Standard on Metal Pole,Dirt,No,643,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{07A3F849-07D9-49B0-A61B-7B1B56188B84},116
+-66.61899694,45.92544914,225,Wilsey/Kimble,216 Corbett Centre,Shelter,Concrete,Yes Boulevard,593,No,,No,No,,,,,,Level 2: Accessible,,,{D09AAD1C-1CD0-4576-87D5-3500714A76BA},216
+-66.62053212,45.92191043,226,271 Wilsey,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,594,No,,No,No,,,,,,Level 3: Not Accessible,,,{6886217B-08F2-4E5F-833B-734E9115D64A},216
+-66.61954254,45.91910001,227,365 Wilsey,216 Corbett Centre,Standard on Metal Pole,Dirt,No,969,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{FB0D2C09-C229-4D76-976F-1316078A07DA},216
+-66.61974812,45.91774543,228,Hilton / Wilsey,216 Corbett Centre,Standard on Metal Pole,Gravel,No,595,No,,No,No,,,,,,Level 3: Not Accessible,,,{30F9091E-3EBB-4975-8908-E1E5E45DBD84},216
+-66.62172938,45.91779444,229,Hilton / MacKenzie,216 Corbett Centre,Standard on Metal Pole,Gravel,No,596,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{F6C9ACA5-1D09-49CA-A754-67EA807D5D30},216
+-66.62392707,45.91970173,230,Flemming/ Ayres,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,598,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{31AACEC1-3618-429A-8B93-B0F8604EC883},216
+-66.62636091,45.92107815,231,157 Flemming,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,599,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{3D6EE860-2FC6-47FD-92F2-3339AB208570},216
+-66.62736775,45.92255339,232,245 Flemming,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,600,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{CFDE90B4-EC5D-4102-9880-107A5A8B43E2},216
+-66.62755406,45.92411742,233,260 Wetmore,216 Corbett Centre,Shelter,Concrete,Yes Boulevard,601,No,,No,Yes,Good,,,Metal,Fair,Level 1: ADA Compliant,,,{05C15D44-8B58-4269-A11B-6F68056599FB},216
+-66.62590513,45.92513043,234,202 Wetmore,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,602,Yes,,No,No,,,,,,Level 2: Accessible,,,{3B7F1DB2-9E08-48E1-A806-9FF46FD6DAE5},216
+-66.62551402,45.92950494,235,335 Kimble,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,605,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{A2F63411-9335-4F05-AAF2-2C270CD054A8},216
+-66.62727002,45.9299763,236,375 Kimble,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,606,Yes,,No,No,,,,,,Level 2: Accessible,,,{E37315DD-F0C9-4BE3-9B16-536D013F0606},216
+-66.63639421,45.93614935,237,105 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,610,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{CE14FC8C-895B-41D5-B2CD-0177C1EDCEDB},216
+-66.63898848,45.93607855,238,199 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,611,No,,No,No,,,,,,Level 2: Accessible,,,{07A527B1-EB13-43D3-AE95-B9DF98516ADF},216
+-66.64068101,45.93560977,239,Canerbury and Essex,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,612,No,,No,No,,,,,,Level 3: Not Accessible,,,{35ABBE06-DB95-407A-A0B1-1D3765D04F99},216
+-66.64098492,45.93333975,240,385 Canterbury,216 Corbett Centre,Shelter,Concrete,Yes Monolithic,613,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{1F6E9B79-54E8-491D-A0A8-EB8C3553C0F2},216
+-66.64001053,45.93138958,241,499 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,614,Yes,,No,No,,,,,,Level 2: Accessible,,,{C0839361-8E1F-44FD-9808-CA0C0DFE4CCE},216
+-66.63825419,45.9300368,242,605 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,No,615,No,,No,No,,,,,,Level 3: Not Accessible,,,{1E5C7CC7-0C2D-4547-A5DC-F514B3F06F8E},216
+-66.63693471,45.92921538,243,655 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,No,616,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{F7287DB8-80C5-4D95-BCE4-8FD995FF8BF3},216
+-66.63500633,45.92824297,244,725 Canterbury,216 Corbett Centre,Standard on Metal Pole,Dirt,No,617,No,,No,No,,,,,,Level 3: Not Accessible,,,{175322A0-5BE2-41D4-B0CA-2D0119EBB7C2},216
+-66.63440423,45.92809534,245,Canterbury/Birmingham,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,630,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{05FB144A-5CC8-47EC-BD59-C795712467A8},116
+-66.63644669,45.92908122,246,680 Canterbury,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,631,No,,No,No,,,,,,Level 3: Not Accessible,,,{7667EC5C-7805-46F0-9BCC-0F5A5618CE12},116
+-66.63828847,45.93018481,247,Canterbury/Topcliffe,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,633,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{366DD62A-C02C-40C0-897E-BFC295D042D4},116
+-66.63990664,45.93144986,248,Canterbury/Cambridge,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,634,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{4D464E38-A397-4051-B682-370E59567326},116
+-66.64085307,45.93359122,249,358 Canterbury,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,635,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{B0E0C100-56D5-42D4-A008-B53F6C1E8A4F},116
+-66.64028755,45.93570857,250,244 Canterbury,116 Kings Place,Standard on Metal Pole,Dirt,No,636,Yes,,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{5B82EFA7-A907-466F-B150-BC7452C6BC30},116
+-66.63892678,45.93596743,251,204 Canterbury,116 Kings Place,Standard on Metal Pole,Dirt,No,637,Yes,,No,No,Good,Fair,3,,,Level 3: Not Accessible,,,{A842C1BF-3976-406C-930B-D3438604EF2E},116
+-66.63714867,45.93602271,252,140 Canterbury,116 Kings Place,Standard on Metal Pole,Dirt,No,638,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{ACE6C137-1D76-4E42-B20B-904D5333C7AE},116
+-66.64467013,45.95274143,253,635 Beaverbrook,116 Kings Place,Standard on Metal Pole,Concrete,Yes Monolithic,664,No,,No,No,,,,,,Level 2: Accessible,,,{D8316954-2A69-4A87-826F-0EC3F280E665},116
+-66.64478013,45.95395343,254,408 Regent,116 Kings Place,Standard on Metal Pole,Concrete,Yes Monolithic,665,No,,No,No,,,,,,Level 2: Accessible,,,{3F36AC18-6597-44A9-8E0F-EDFCF3F83982},116
+-66.64325513,45.95572143,255,336 Regent,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,666,Yes,,,No,,,,,,Level 2: Accessible,,,{1736CBEA-E780-4C59-9845-8BAEA7DB48CC},116
+-66.64242587,45.95668497,256,288 Regent,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,667,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{C6A3AEF5-6FBF-4D50-A6E9-6CE23112A274},116
+-66.64174611,45.95750386,257,230 Regent,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,668,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{AA6BDC9F-B761-4212-9827-C28BB9059AA7},116
+-66.64078189,45.9585619,258,198 Regent,116 Kings Place,Standard on Metal Pole,Dirt,Yes Boulevard,669,Yes,,No,No,,,,,,Level 2: Accessible,,,{428B42FA-F477-4120-B5E0-2E1BBD094501},116
+-66.57761543,45.9982139,259,599 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Monolithic,311,No,Retake,No,No,Unknown,Other,1,,,Level 2: Accessible,,,{42544045-C0F4-4D98-9556-A8BB2254DC7E},17
+-66.57723011,45.99485144,260,539 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,312,No,,No,No,Fair,Other,1,,,Level 2: Accessible,,,{751A5E3A-59BD-4317-B34F-DA305FFB8891},17
+-66.57853178,45.99268605,261,507 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,313,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{5F4E9BB4-5DAF-4BF2-8B0B-F96BC941267C},17
+-66.57977961,45.99157799,262,485 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,314,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{D4A9AE68-3B0E-4415-AAFE-81DEA2A63107},17
+-66.58232939,45.99022748,263,457 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,315,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{14814A8C-AD45-4306-88C8-A0DEA2DC14BE},17
+-66.58407526,45.98991712,264,443 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,316,No,Retake,No,No,Fair,Other,1,,,Level 2: Accessible,,,{A0BC5FBF-7838-4540-9F18-6AF7E540952F},17
+-66.59232902,45.98408031,265,329 Canada,17S Regent,Standard on Metal Pole,Dirt,No,320,No,,No,No,Fair,Good,1,,,Level 3: Not Accessible,,,{72EC7245-CE48-4BF6-B843-486A3B31D08E},17
+-66.59250478,45.98225081,266,307 Canada,17S Regent,Standard on Metal Pole,Dirt,No,976,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{CC5FAEC2-AE1C-44E9-8225-CFE7E5CE672D},17
+-66.59305912,45.98042844,267,287 Canada,17S Regent,Standard on Metal Pole,Dirt,No,321,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{787ED789-123B-48D6-9F55-C9C0341CD3BA},17
+-66.5926971,45.97815121,268,Canada/ Crocket,17S Regent,Shelter,Concrete,Yes Monolithic,322,No,Retake photo,Yes,No,,,0,Glass,Good,Level 1: ADA Compliant,,,{CFCFA44E-131A-45B6-B66A-2AE9CDA22B9E},17
+-66.59226312,45.97587844,269,225 Canada,17S Regent,Standard on Metal Pole,Concrete,Yes Boulevard,323,No,,No,No,Good,Fair,1,,,Level 2: Accessible,,RO,{1A85C219-0BF8-4009-8580-216690F38328},17
+-66.5909885,45.97320099,270,193 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,324,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{7055C447-2CF0-4335-AB79-A4DA3DBDF258},17
+-66.59043289,45.9717352,271,173 Canada Street,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,325,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{839EAF0F-7E67-4DF5-8C2E-205FFDC337CD},17
+-66.59093725,45.97008553,272,157 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Monolithic,326,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{8F3E52A2-A1CC-433C-80EB-CEC54A614365},17
+-66.59160639,45.96840535,273,135 Canada,17S Regent,Standard on Metal Pole,Concrete,Yes Boulevard,327,No,,No,No,Good,Fair,1,,,Level 1: ADA Compliant,,,{B519B5BF-8A32-4D85-B219-51D5DD2C9917},17
+-66.59476349,45.96668972,274,Canada and Gilbert,17S Regent,Shelter,Concrete,Yes Boulevard,328,Yes,,No,No,Good,,0,Glass,Good,Level 1: ADA Compliant,,,{4F4CA787-2BE3-4646-AAC8-B36ECEDE0DED},17
+-66.59920855,45.96555025,275,59 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,329,Yes,,No,No,Fair,Good,2,,,Level 2: Accessible,,,{D7278FA8-C4B5-4115-B946-623C2F3EA05E},17
+-66.60383867,45.96608574,276,Youngs Crossing,17S Regent,Shelter,Concrete,Yes Boulevard,330,No,,No,Yes,Good,,1,Glass,Good,Level 1: ADA Compliant,,,{0140FE5E-47BB-472B-ACD6-5E21CF96F2E8},17
+-66.60532499,45.96651912,277,855 Irvine,17S Regent,Standard on Metal Pole,Dirt,No,331,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{8487F0F5-945B-4EFC-95DF-BA4B9A842442},17
+-66.60996912,45.97001744,278,737 Irvine,17S Regent,Standard on Metal Pole,Dirt,No,333,No,,No,No,Good,Other,1,,,Level 3: Not Accessible,,,{6F2A8EB4-DCB7-49D1-91EB-A807CB1DEB9A},17
+-66.61234557,45.97103989,279,717 Irvine,17S Regent,Standard on Metal Pole,Dirt,No,334,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{10ECD5A6-ACDA-44A1-9281-32B15FFD1F12},17
+-66.61376163,45.97004241,280,207 Noble,17S Regent,Standard on Metal Pole,Dirt,No,335,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{729C845F-785D-4A77-9F91-135427F72042},17
+-66.61381014,45.96889772,281,14 Ashfield,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,336,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{55E5761E-3A0C-405E-9FAA-21D27C75530F},17
+-66.61206341,45.96812728,282,Ashfield and Sewell,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,337,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{446454A5-0C4A-4DA7-9957-6C4F0696653E},17
+-66.61057432,45.96674539,283,132Ashfield,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,338,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{DDF4D77B-A2D7-4526-B2B0-E23A0E966506},17
+-66.61047812,45.96539544,284,429 Gibson,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,339,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{987632A4-1B33-4F1A-AB35-51D5893E3B42},17
+-66.61699185,45.96425425,285,MacLaren / Gibson,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,341,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{7501370A-A03E-44B0-998F-B524770176E2},17
+-66.61802078,45.96601174,286,769 MacLaren,17S Regent,Shelter with Metal Pole,Concrete,Yes Boulevard,342,Yes,,No,Yes,Good,Good,2,Metal,Good,Level 1: ADA Compliant,,RO,{4A42958B-C001-4FD1-9407-1CA237B6D060},17
+-66.62002235,45.96719371,287,751 MacLaren,17S Regent,Standard on Metal Pole,Dirt,No,343,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{D5FC8D08-8B9B-40EF-84CE-E8BABE9041EA},17
+-66.62296076,45.96894381,288,713 MacLaren,17S Regent,Standard on Metal Pole,Concrete,Yes Boulevard,344,No,,No,No,Other,Other,1,,,Level 1: ADA Compliant,,,{8C970F1E-BF85-49C7-89A8-6C20257B204C},17
+-66.62471034,45.969995,289,MacLaren/Forbes,17S Regent,Shelter,Concrete,No,345,No,,No,Yes,Good,,1,Metal,Fair,Level 3: Not Accessible,,RO,{54A8D112-F2CD-4ABE-88E5-BA7099B46C46},17
+-66.63019364,45.9729286,290,MacLaren/Cliffe,17S Regent,Shelter,Concrete,No,347,No,,No,Yes,Good,,1,Metal,,Level 3: Not Accessible,,RO,{C62DD7A1-FF04-47B2-B65B-CE208BA8598F},17
+-66.64636611,45.96447234,291,271 Queen,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,47,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{2A239D4E-671A-400B-A6BB-2C918C0562FB},"11, 13, 15, 17, 18"
+-66.63546535,45.9540107,292,281 University,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,358,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{CEC1C3CB-0C5E-4B61-ABCE-2F82B8FACA6F},17
+-66.63743689,45.95166088,293,369 University,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,359,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{B0C89DA3-0BAB-43A0-B8DC-0864AC844DD0},17
+-66.63865213,45.95026243,294,411 University,17S Regent,Shelter with Metal Pole,Dirt,Yes Boulevard,360,No,,No,No,Good,Good,,Glass,Good,Level 2: Accessible,,RO,{E6AF6F8E-EEB1-47B5-94D4-6A3A73B6C7E6},17
+-66.64633895,45.94123741,295,921 College Hill,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,366,No,,No,No,,,,,,Level 2: Accessible,,RO,{13BA0EE5-E971-42CC-9D89-F33F05764E30},17
+-66.64757413,45.93978543,296,985 College Hill,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,367,No,,No,No,,,,,,Level 2: Accessible,,RO,{AE661ACC-1D0F-402A-AE9D-6BBA713774C1},17
+-66.64868764,45.93846112,297,College Hill/Priestman,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,368,Yes,,No,No,,,,,,Level 2: Accessible,,RO,{6B66ACA3-58CD-4D88-A8C0-4E3018F6016A},17
+-66.65406314,45.94023043,298,685 Priestman,17S Regent,Shelter,Concrete,Yes Monolithic,371,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{AC2B63D9-445E-4786-8D44-DF9BC1C482F6},17
+-66.65429201,45.94010067,299,680 Priestman,16N Marysville,Shelter,Concrete,Yes Boulevard,384,No,,No,Yes,Good,,,Glass,Good,Level 1: ADA Compliant,,RO,{845AEF85-39D9-484B-AA0B-2C88D1022735},16
+-66.64848049,45.93847161,300,1050 College Hill,16N Marysville,Standard on Metal Pole,Dirt,No,386,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{159D1B45-BD40-4D7B-8F66-76AC01018D45},16
+-66.64743593,45.93971094,301,990 College Hill,16N Marysville,Standard on Metal Pole,Dirt,No,387,No,,No,No,Good,Fair,,,,Level 2: Accessible,,RO,{DFFD1C01-8F08-4226-8EE4-89E7962F27F8},16
+-66.64619858,45.94115563,302,948 College Hill,16N Marysville,Standard on Metal Pole,Dirt,No,388,No,,No,No,Good,Good,,,,Level 2: Accessible,,RO,{02EB641B-83FA-428E-AB4E-86004ADBCEC4},16
+-66.63833551,45.95040898,303,424 University,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,395,Yes,,No,No,,,,,,Level 2: Accessible,,RO,{6672D478-C9AC-4F1E-9A45-0E8C22DD93C6},16
+-66.63736313,45.95153943,304,376 University,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,396,Yes,,No,No,,,,,,Level 2: Accessible,,RO,{BFDC1A61-C70C-4709-A256-F173365E325B},16
+-66.63530213,45.95401943,305,University/Shore,16N Marysville,Standard on Metal Pole,Concrete,Yes Boulevard,397,No,,No,No,,,,,,Level 2: Accessible,,RO,{F5562A1A-6DA6-494A-A780-BEE1A703FCCA},16
+-66.63387213,45.95559943,306,184 University,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,399,No,,No,No,,,,,,Level 2: Accessible,,RO,{5CC16ED2-8A5D-494F-A174-57321CC25421},16
+-66.63267213,45.97268644,307,42 Dedham,16N Marysville,Standard on Metal Pole,Concrete ,Yes Boulevard,407,No,There is a bus sign on ground across the street,No,No,,,,,,Level 1: ADA Compliant,,,{30D59EF9-399D-4831-9A3B-008114E26C8D},16
+-66.63008553,45.97278213,308,MacLaren/Cliffe,16N Marysville,Shelter,Concrete,Yes Boulevard,408,No,,No,Yes,Good,,,Metal,Fair,Level 1: ADA Compliant,,RO,{5DC89CDB-F1A2-4006-A8E4-D773EBD8F388},16
+-66.62719406,45.97145644,309,603 MacLaren,17S Regent,Standard on Metal Pole,Dirt,No,346,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{54B99B88-2634-43FA-A36A-2AF37C7144DB},17
+-66.62478413,45.96987044,310,664 MacLaren,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,410,No,,No,No,,,,,,Level 2: Accessible,,,{54B67725-3235-4275-955F-09F69598F019},16
+-66.62223613,45.96834844,311,MacLaren/Carney,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,411,Yes,,No,No,,,,,,Level 2: Accessible,,,{A804C27D-FD53-4488-8ECC-E6432D0161D0},16
+-66.62086013,45.96751744,312,742 MacLaren,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,412,No,,No,No,,,,,,Level 2: Accessible,,,{3BBA2656-EB1A-417E-951C-F793C257B551},16
+-66.61953367,45.96675417,313,758 MacLaren,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,413,No,,No,No,,,,,,Level 2: Accessible,,,{FE17DC74-E8C6-4349-B433-1EC2538EF600},16
+-66.61713668,45.96418803,314,MacLaren/Gibson,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,414,No,,No,No,,,,,,Level 2: Accessible,,,{4CF8D36E-7DAA-42A1-BFDD-D7275CC230A9},16
+-66.61364002,45.96451499,315,358 Gibson,16N Marysville,Standard on Metal Pole,Dirt,No,415,No,,No,No,,,,,,Level 3: Not Accessible,,,{671B1803-C124-43A6-B623-E6BE597D31C5},16
+-66.61138598,45.96505681,316,404 Gibson,16N Marysville,Standard on Metal Pole,Dirt,No,416,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{CA141BE9-618A-4FD2-B22D-4CFA62948A6D},16
+-66.61046812,45.96683344,317,Ashfield/Weyman,16N Marysville,Standard on Metal Pole,Dirt,No,417,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{835CFCF5-0AD9-405E-8748-AD4E6EEB63E4},16
+-66.61254312,45.96843644,318,47 Ashfield,16N Marysville,Standard on Metal Pole,Dirt,No,418,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{9132C2E2-FE01-42C7-B0F2-6A4C1690039B},16
+-66.61357392,45.97004008,319,210 Noble,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,419,Yes,,No,No,Fair,Good,3,,,Level 3: Not Accessible,,,{6470E548-E018-4D9A-B314-26AD71CD6800},16
+-66.61225212,45.97087144,320,Irvine / Noble,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,420,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{B68B7E93-D103-4BB1-A333-3054EBFB6077},16
+-66.60999187,45.96990059,321,736 Irvine,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,421,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{C5F10375-D458-4AA8-81F8-9413FC2747FE},16
+-66.60694225,45.9684182,322,762 Irvine,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,422,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,,{15C8FA6F-B4BF-41DC-A63C-AC16E950BBD9},16
+-66.60545128,45.96647067,323,840 Irvine,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,423,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{76466017-314F-4A28-A984-AF957F019845},16
+-66.6037558,45.96598159,324,Youngs Crossing,16N Marysville,Standard on Metal Pole,Dirt,No,424,No,,No,No,,,,,,Level 3: Not Accessible,,,{101254FD-684B-4FD5-AD78-7F28A8AC750D},16
+-66.59820154,45.96562085,325,74 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,425,No,,No,No,,,,,,Level 3: Not Accessible,,,{87A7C1C2-6D5E-4F09-8F5B-64E55AE1EADC},16
+-66.59432312,45.96663744,326,100 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,426,No,,No,No,,,,,,Level 3: Not Accessible,,,{FBAAF276-A619-4CF3-BE65-7FA33A1517AF},16
+-66.59143695,45.96841178,327,142 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,427,No,,No,No,,,,,,Level 3: Not Accessible,,,{A8B7FE0E-1980-4BCF-87F4-2740DF0E6B0D},16
+-66.59039472,45.97116215,328,176 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,429,No,,No,No,,,,,,Level 3: Not Accessible,,,{B8B02768-14E2-4B20-997A-4B99AA2EEF1A},16
+-66.59220212,45.97705244,329,Canada/Veterans,16N Marysville,Standard on Metal Pole,Dirt,No,430,No,,No,No,,,,,,Level 3: Not Accessible,,,{3045F92F-CF47-40CB-B28E-43991E346999},16
+-66.59224812,45.98237644,330,307 Canada,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,437,Yes,,No,No,,,,,,Level 2: Accessible,,,{30E14A2A-EB1C-47A8-B789-EF0FE58E3757},16
+-66.59217712,45.98410244,331,329 Canada,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,438,No,,No,No,,,,,,Level 2: Accessible,,,{314B81DF-857C-4716-95E2-6684CDC74A77},16
+-66.59182312,45.98572744,332,347 Canada,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,439,No,,No,No,,,,,,Level 2: Accessible,,,{898E5B09-330D-4ACE-A7E0-EAA73B006755},16
+-66.58729089,45.98919364,333,410 Canada,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,441,No,,No,No,,,,,,Level 3: Not Accessible,,,{28AF82C0-6248-49E6-8618-80A2554363E0},16
+-66.58480111,45.98965144,334,432 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,442,No,,No,No,,,,,,Level 3: Not Accessible,,,{1B403437-DC45-44B2-B37C-EA1074F8C9DE},16
+-66.58234711,45.99008044,335,456 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,443,No,,No,No,,,,,,Level 3: Not Accessible,,,{28D9127D-0CF3-4423-8861-981D7B1ACF6D},16
+-66.57960211,45.99148344,336,486 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,444,No,,No,No,,,,,,Level 3: Not Accessible,,,{EEB030E2-9ACF-4F3E-819A-75E70E8660BE},16
+-66.57825811,45.99270944,337,512 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,445,No,,No,No,,,,,,Level 3: Not Accessible,,,{80D4E2E2-C9D5-4195-BC2A-2CB3FFCF4BF1},16
+-66.57697511,45.99483744,338,550 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,446,No,,No,No,,,,,,Level 3: Not Accessible,,,{BA1344E2-A527-4A1A-8B2D-2B2BAA53EBDF},16
+-66.57742011,45.99823144,339,602 Canada,16N Marysville,Standard on Metal Pole,Dirt,No,447,No,,No,No,,,,,,Level 3: Not Accessible,,,{7D046BA5-52BB-4F99-BC7A-4F01701D2148},16
+-66.61124612,45.93901343,340,549 Riverside,15S Hanwell,Standard on Metal Pole,Dirt,No,451,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{152C5DF8-A28A-452F-B526-6DDA07E0760C},15
+-66.61285961,45.94085753,341,452 Riverside,14N Barkers Point,Standard on Metal Pole,Gravel,No,563,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{DBF444DB-3139-442A-8441-283C66191000},14
+-66.61566212,45.95493443,342,Charles Ave,14N Barkers Point,Standard on Metal Pole,Dirt,No,974,Yes,,No,No,Unknown,Good,2,,,Level 2: Accessible,,,{65D366FF-F6A6-4388-BE0A-4EDD7314F4B7},149
+-66.62274788,45.94992627,343,89 Riverside,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,453,No,,No,No,Good,Fair,,,,Level 2: Accessible,,,{9065E08D-184B-41DF-A7CD-0822C62CC0EC},15
+-66.62325606,45.95230145,344,33 Riverside,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,454,Yes,,No,No,Good,Fair,3,,,Level 2: Accessible,,,{DD1E49DE-CFE6-4092-88C9-ED49B33C538B},15
+-66.62339102,45.95745041,345,965 Union,15S Hanwell,Standard on Metal Pole,Dirt,Yes Monolithic,455,No,,No,No,,,,,,Level 2: Accessible,,,{2C76A9BD-20E6-4634-AC62-FE024DE4189F},15
+-66.62383959,45.95863378,346,921 Union,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,456,No,,No,No,,,,,,Level 1: ADA Compliant,,,{9E2CACAD-39E0-438E-92D5-45A697603277},15
+-66.62438647,45.96015645,347,863 Union,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,457,Yes,,No,No,,,,,,Level 2: Accessible,,,{A739FFE4-8598-4E18-9339-36475BE6F3D0},15
+-66.62543606,45.96269045,348,787 Union,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,458,Yes,,No,No,,,,,,Level 2: Accessible,,,{ED85BB99-D4F3-48D8-B30B-529B6DA60C1B},15
+-66.6267933,45.96472005,349,721 Union,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,459,No,,No,No,,,,,,Level 2: Accessible,,,{D07560B1-49A7-4263-8E23-3FED3AAD121F},15
+-66.62817372,45.96667531,350,655 Union,15S Hanwell,Standard on Wooden Pole,Concrete,Yes Monolithic,460,No,,No,No,,,,,,Level 2: Accessible,,,{D896C42D-2571-4097-A0C8-A245608A1146},15
+-66.62983729,45.96802025,351,603 Union,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,461,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,RO,{AF43D347-64C3-4B56-B8D7-31F9585E0D43},15
+-66.63266313,45.96988344,352,527 Union,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,462,No,,No,No,,,,,,Level 2: Accessible,,,{46BF1A3C-2F00-4346-95C5-D109270345F8},15
+-66.64515013,45.96081243,353,161 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,481,Yes,,No,No,,,,,,Level 2: Accessible,,,{E34403C8-C6E9-4000-9C79-D732C95CE90D},159
+-66.64676256,45.95891013,354,273 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,482,No,,No,No,Fair,Good,,,,Level 2: Accessible,,,{04EA0125-51FD-4E1B-A626-BF5CC081B1F4},159
+-66.64778773,45.95772408,355,339 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,483,Yes,,No,No,Fair,Good,2,,,Level 2: Accessible,,,{C392B81E-D82E-48C9-8573-C7C5C78F9492},159
+-66.64870557,45.95667183,356,377 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,484,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{73F6BF59-5DE3-4680-B151-4017ABEF9DCA},159
+-66.64954209,45.95572713,357,401 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,485,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{104047B7-B965-4416-B56B-9C005215B06A},159
+-66.65172213,45.95320743,358,567 York,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,486,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{A7BD7101-44DA-421A-8627-4C91A3CC7F3F},159
+-66.65513671,45.94919708,359,791 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,488,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{84D413DC-026A-442C-AE4B-6AD69BC444D1},15
+-66.65667623,45.94738531,360,877 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,489,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{CEB15D88-E6E8-410D-967F-A5B9E054C49D},15
+-66.65880088,45.94545888,361,979 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,490,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{D824A714-5A3C-4A1B-9B62-5CCFA9DD4570},15
+-66.66204598,45.94402841,362,York/ Priestman,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,491,Yes,,No,No,Good,Fair,3,,,Level 1: ADA Compliant,,,{B1B5A9E2-A17B-4003-A0BF-A347A103D7BB},15
+-66.66902733,45.94345777,363,1165 Smythe,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,493,No,,No,No,,,,,,Level 2: Accessible,,,{A68E0DF7-8A7B-4AC5-8FB9-FBDA49C7B6E4},15
+-66.66537146,45.94485113,364,171 Priestman,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,492,No,,No,No,,,,,,Level 3: Not Accessible,,,{DD6A0DCA-94C7-449F-ADD3-59C800B0A812},15
+-66.66006514,45.93883943,365,1211 Prospect,12N Brookside ,Shelter with Metal Pole,Concrete,Yes Boulevard,86,No,Glass Shelter,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{4D7FBEA1-19F9-43AF-9D82-C13AAA47084E},12
+-66.6773553,45.94591747,366,827 Prospect,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,497,Yes,,No,No,Fair,Good,3,,,Level 2: Accessible,,,{94DAA25A-BB27-485A-B9FF-65347F6BB20D},15
+-66.67897608,45.94659333,367,781 Prospect,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,498,Yes,,No,No,Good,Good,4,,,Level 2: Accessible,,,{DA2380D0-A5CB-4DD4-890F-10E6B802EBBF},15
+-66.68689727,45.95013526,368,585 Prospect,15S Hanwell,Shelter,Concrete,Yes Boulevard,499,No,,No,Yes,,,,,,Level 1: ADA Compliant,,RO,{32C80908-1121-4AC9-B56C-6635B8A88D78},15
+-66.69208523,45.94833235,369,1105 Hanwell,15S Hanwell,Standard on Metal Pole,Dirt,Yes Monolithic,500,Yes,,No,No,,,,,,Level 2: Accessible,,,{54712A97-0CB3-4A25-BC58-8EF0F6B41DC8},15
+-66.70583815,45.93834643,370,Evergreen/ Hedgeview,15S Hanwell,Standard on Metal Pole,Dirt,No,503,No,,No,No,Poor,Good,,,,Level 2: Accessible,,,{792E479C-4F1D-48C8-933E-D79D14580A59},15
+-66.70762367,45.93603784,371,78 Hedgeview,15S Hanwell,Standard on Metal Pole,Gravel,No,504,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{AD5D0212-EE53-4673-A680-B9809412FDA6},15
+-66.71058416,45.93513525,372,144 Hedgeview,15S Hanwell,Standard on Metal Pole,Dirt,No,505,No,,No,No,,,,,,Level 2: Accessible,,,{02D650FF-A6B3-4D11-9773-8DB5C29E0BB1},15
+-66.69259183,45.94613821,373,Bishop,14N Barkers Point,Shelter,Concrete,Yes Boulevard,511,No,,No,Yes,,,,Metal,Good,Level 1: ADA Compliant,,,{33010A9F-3F0D-446B-B660-E2849EFD6DE4},14
+-66.68760883,45.95022868,374,550 Prospect,14N Barkers Point,Shelter,Concrete,No,512,No,,Yes,Yes,,,,,,Level 3: Not Accessible,,RO,{46122B90-E25A-4FA8-A764-04CAF569867D},14
+-66.68428851,45.94868081,375,680 Prospect,14N Barkers Point,Standard on Metal Pole,Dirt,No,513,Yes,,No,No,Good,Fair,2,,,Level 2: Accessible,,,{84FDD61E-1BA8-4B9C-95E6-3419BBF82C72},14
+-66.677746,45.94587799,376,820 Prospect,14N Barkers Point,Standard on Metal Pole,Dirt,No,514,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{996D9116-99D1-4225-8DAC-7FB7C59B5C63},14
+-66.65745414,45.94157943,377,Priestman/Regent,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,522,Yes,,No,No,,,,,,Level 1: ADA Compliant,,RO,{A4538E5E-A70D-440B-A119-A6A33605EF5C},14
+-66.66001883,45.94263431,378,Priestman/Lisgar,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,523,No,,No,No,,,,,,Level 1: ADA Compliant,,,{74275875-B6FE-460F-8632-6552E91E09FB},14
+-66.66102308,45.9444274,379,York/ Priestman,14N Barkers Point,Shelter with Metal Pole,Concrete,Yes Boulevard,524,No,,No,Yes,,,,Glass,Fair,Level 1: ADA Compliant,,,{EFBAE489-A883-4F12-866C-89994F526EAF},14
+-66.65866514,45.94540443,380,984 York,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,525,Yes,,No,No,,,,,,Level 2: Accessible,,,{4E3024E4-2CFF-4CA9-B002-8234CE25683C},14
+-66.65653614,45.94729343,381,York / Montgomery,14N Barkers Point,Standard on Metal Pole,Dirt,No,526,No,,No,No,,,,,,Level 3: Not Accessible,,,{8074977D-CEBB-420C-9E43-AF8CC6BD47CA},14
+-66.65502626,45.94909691,382,800 York,14N Barkers Point,Standard on Metal Pole,Dirt,No,527,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{35576573-339C-4292-A81C-6C105EC6898A},14
+-66.64923206,45.95586048,383,York/ Victoria,14N Barkers Point,Shelter,Gravel,Yes Boulevard,530,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{7C8D59EE-FE64-4BC1-B3F0-A6D01A593020},14
+-66.64749342,45.95787729,384,324 York,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,531,Yes,,No,No,,,,,,Level 2: Accessible,,,{05C501A5-B9E3-4595-8AD5-8F1293AE01D9},14
+-66.64656463,45.95895639,385,266 York,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,532,Yes,,No,No,,,,,,Level 2: Accessible,,,{C61ECC54-388E-4483-BF80-493B976F6077},14
+-66.63304586,45.96991631,386,Cliffe/ Union,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,548,Yes,,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{8E47109C-F27D-44DE-B28B-1D867914EF70},14
+-66.63022213,45.96809744,387,Union at Plaza,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,549,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{3E47E225-5FBB-4C0B-BF37-62BA1FF7CB2B},14
+-66.62810854,45.96635207,388,664 Union,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,550,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{18DF71B6-44D5-422A-92EB-A96BB531E070},14
+-66.62573681,45.96279774,389,Union/ Gibson,14N Barkers Point,Standard on Metal Pole,Dirt,No,551,Yes,,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{50D67677-7D58-4BDD-9BD4-DCBA617871BD},14
+-66.6240651,45.95871222,390,912 Union,14N Barkers Point,Standard on Metal Pole,Concrete,No,554,No,,No,No,Good,Fair,,,,Level 1: ADA Compliant,,,{EC40D323-9B82-4EF9-936E-C11CB2F743C0},14
+-66.61595711,45.95361929,391,36 Greenwood,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,556,No,,No,No,,,,,,Level 2: Accessible,,,{0A40652E-F928-463F-9627-EEA4FAC0E54A},149
+-66.6131847,45.9535283,392,72 Greenwood,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,557,Yes,,No,No,,,,,,Level 2: Accessible,,,{959E20A3-CDF7-413B-A2CB-EDC9BE54A451},149
+-66.61073512,45.95342643,393,112 Greenwood,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,558,No,,No,No,,,,,,Level 2: Accessible,,,{57404E08-C46E-4D90-A318-034C238432E1},149
+-66.60823608,45.95335901,394,150 Greenwood,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,559,Yes,,No,No,,,,,,Level 2: Accessible,,,{304EFF53-9909-4603-AAB1-018384FE73FA},149
+-66.6060475,45.95326877,395,180 Greenwood,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,560,No,,No,No,,,,,,Level 2: Accessible,,,{59439113-7622-4EFB-B877-FA4BFD882C41},149
+-66.60267365,45.9531706,396,230 Greenwood,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,561,No,,No,No,,,,,,Level 2: Accessible,,,{95307DBF-B37C-4534-9A0E-CFF226345A9C},149
+-66.60834591,45.93603303,397,Food Bank,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,200,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{A01BDFD5-EB41-41B3-A8A6-DCA316D78038},14
+-66.69505287,45.94611935,398,1225 Hanwell,15S Hanwell,Standard on Metal Pole,Dirt,No,502,No,,No,No,,,,,,Level 2: Accessible,,,{E46B90F7-B7D5-4544-8058-B61878D5E65A},15
+-66.69738479,45.9443567,399,1484 Hanwell,14N Barkers Point,Standard on Wooden Pole,Dirt,No,507,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{D08BDC52-8122-401E-8A94-E39BF1F076D3},14
+-66.65054479,45.96422329,400,119 King,13S Prospect,Standard on Metal Pole,Concrete,Yes Boulevard,52,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{EA893EA0-455E-453E-A911-D8D5A222784E},"13, 18"
+-66.65501065,45.96474783,401,Across from Wilmot ,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,55,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{032002D6-BD19-4860-A8F5-F35FD237FD80},"13, 18"
+-66.66264072,45.96421523,402,Woodstock & Brookmount,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,56,Yes,,No,No,Poor,Fair,2,,,Level 2: Accessible,,,{6AEEBCFA-9BC2-4497-8782-54A613B8FD40},"13, 18"
+-66.66570964,45.96360914,403,Woodstock/ Haviland,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,738,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{6EA1FA50-092D-4A7E-BF66-79D903474FA4},"13, 18"
+-66.66523454,45.96358642,404,288 Woodstock,12N Brookside ,Standard on Metal Pole,Dirt,No,113,No,,No,No,Fair,Other,1,,,Level 3: Not Accessible,,,{83B1C644-8D54-47D5-AD73-0F1DBF35CB29},"12, 18"
+-66.66265008,45.964106,405,212 Woodstock,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,114,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,RO,{E0627F13-F1DC-400C-AC3D-7C4D8FBFBD9F},"12, 18"
+-66.65747352,45.96486396,406,Woodstock & Rookwood,12N Brookside ,Standard on Metal Pole,Dirt,No,115,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{2C83E860-BB39-4B3C-A467-A6287D50068F},"12, 18"
+-66.65406775,45.9644227,407,Brunswick & Odell Ave,12N Brookside ,Shelter,Concrete,Yes Boulevard,116,Yes,,No,No,Good,Good,3,,,Level 1: ADA Compliant,,RO,{00CD9E1C-1259-4DDF-A81A-1A641CB702EF},"12, 18"
+-66.63013913,45.93912843,408,Lincoln / Dunns,216 Corbett Centre,Standard on Metal Pole,Gravel,No,588,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{08B0389C-5C8B-4AB0-AA0C-A15995898C52},"20, 216"
+-66.6254931,45.9344973,409,240 Lincoln,216 Corbett Centre,Standard on Metal Pole,Dirt,No,589,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{07DFD9C1-ED65-4125-929E-7C758453CF7A},"20, 216"
+-66.62366912,45.93187243,410,363 Lincoln,116 Kings Place,Standard on Metal Pole,Dirt,No,657,No,,No,No,,,,,,Level 3: Not Accessible,,,{9E6F7199-8D2A-4EC8-B415-5ADD32C33036},"116, 20"
+-66.62539113,45.93463243,411,220 Lincoln,116 Kings Place,Standard on Metal Pole,Dirt,No,658,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{45B11F14-D279-4B7F-B6BD-6E5E4208649B},"116, 20"
+-66.6309247,45.94024091,412,Lincoln/Dunns Crossing,116 Kings Place,Standard on Metal Pole,Dirt,No,659,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{1183606A-5458-4FD1-AC7C-E073D346151F},"116, 20"
+-66.63531492,45.95945333,413,Art Gallery,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,985,,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{9DA18C38-EC43-4DC5-860E-92FE39907AC5},"10, 16, 20"
+-66.60696331,45.968611,414,763 Irvine,17S Regent,Standard on Metal Pole,Concrete,No,332,Yes,,No,Yes,Good,Good,2,Metal,Fair,Level 1: ADA Compliant,,,{8A13A8D3-22AD-49C1-AC45-A7F6230B61BD},17
+-66.61376606,45.96460858,415,357 Gibson,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,340,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{4C2DE084-A522-451C-8C38-0BB1E273D298},17
+-66.66445914,45.98603444,416,,,,,,22,,,,,,,,,,,,RO,{E215E030-12D2-463E-B984-942C1D9030EA},
+-66.65783077,45.99149066,417,178 McKnight,12N Brookside ,Standard on Metal Pole,Dirt,No,148,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{EE7E6EBF-17A8-4DAC-84CC-FA3C047D3707},12
+-66.66787876,45.96289569,418,368 Woodstock,12N Brookside ,Standard on Wooden Pole,Dirt,No,112,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{8E305C69-B617-4906-A483-E99C645502B3},"12, 18"
+-66.67485633,45.94688087,419,95 Greenfields,13S Prospect,Shelter with Metal Pole,Concrete,Yes Boulevard,74,Yes,,No,Yes,Good,Good,2,Glass,Good,Level 1: ADA Compliant,,,{366F91C3-5233-456B-BEC4-232C1F669257},13
+-66.64511413,45.94324343,420,Duffie/Dineen,17S Regent,Shelter,Concrete,No,365,No,,No,No,,,,Metal,Good,Level 3: Not Accessible,,,{B5FCBA3C-000E-40DE-8AB8-BA8DD788ED59},17
+-66.64506931,45.94309652,421,Woo Center,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,389,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{7D11912B-45C7-444E-82F6-401D23DD38C7},16
+-66.6417826,45.94479964,422,Student Union,16N Marysville,Decorative,Concrete,No,392,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{641C33BA-FFCB-43AA-BE4D-8C8ED26D3081},16
+-66.64448069,45.94792896,423,711 Windsor,10N Carlisle,Standard on Metal Pole,Concrete,No,893,Yes,,No,No,,,,,,Level 2: Accessible,,RO,{658C1A58-63CB-4242-A25C-F5DBF8582CC3},10
+-66.63997313,45.95000443,424,Beaverbrook/University,11S Prospect ,Shelter,Concrete,No,662,Yes,Yes ,No,No,,,,,,Level 1: ADA Compliant,,,{10F7C860-6884-4185-8672-6F307E982225},11
+-66.63886053,45.94901267,425,Beaverbrook / University,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,576,No,,No,No,,,,,,Level 3: Not Accessible,,,{FFACB8A7-4310-48A4-8927-59A285176D79},"10, 216"
+-66.66410257,45.9403834,426,Prospect/ Uptown Ctr,12N Brookside ,Shelter,Concrete,Yes Boulevard,87,No,Retake ,No,Yes,Good,,1,Glass,Fair,Level 2: Accessible,,RO,{C9F2D037-7F05-4F40-9000-5FB4174C09D5},12
+-66.63586413,46.00839144,427,1100 Brookside Drive,12N Brookside ,Standard on Metal Pole,Dirt,No,159,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{35FD4712-C23C-43F6-90AB-6741FF96177F},12
+-66.58930005,45.98816909,428,386 Canada,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,440,No,,No,No,,,,,,Level 3: Not Accessible,,,{F3606F2F-9B35-4CC4-8B64-832B8F90022D},16
+-66.58956262,45.9881585,429,383 Canada,17S Regent,Standard on Metal Pole,Dirt,No,318,No,Retake,No,No,Good,Other,1,,,Level 3: Not Accessible,,,{214DE3E8-00E5-46D8-A495-47AC6B40DD46},17
+-66.5924869,45.97821217,430,Canada / Bridge,16N Marysville,Standard on Metal Pole,Concrete,Yes Monolithic,431,Yes,,No,No,Good,,,,,Level 2: Accessible,,RO,{58D61AE8-678A-4503-BFAC-997C285962D5},16
+-66.58397611,45.98111744,431,Bunker/Perry,16N Marysville,Standard on Metal Pole,Dirt,No,435,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{DDD1CCD1-86B6-4B9E-A14A-3912273F6D84},16
+-66.58353967,45.98017685,432,Elliot St,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,975,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{3A74AED4-21DB-4406-BE7B-2C54041F2D14},16
+-66.61722812,45.95466643,433,49 Charles,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,973,No,,No,No,Good,Other,1,,,Level 2: Accessible,,,{6C166ED4-004D-47E8-A086-72A614BE31BC},149
+-66.64159364,45.96241573,434,Queen St Military Compound,10N Carlisle,Decorative,Concrete,Yes Monolithic,120,Yes,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{A82CF63F-C283-40AE-9B9A-0E3C6FD38D23},"10,12,14,15,16,116,20,18"
+-66.65741814,45.93310145,435,Forestry Complex,16N Marysville,Standard on Metal Pole,Concrete,,379,No,,No,No,,,,,,Level 1: ADA Compliant,,,{59E8AD49-75BF-4B1E-9613-D4A617AE22AF},"10, 16"
+-66.64229786,45.94525536,436,Student Union Building,17S Regent,Decorative,Concrete,Yes Monolithic,363,No,,No,No,,,,,,Level 1: ADA Compliant,,,{A8824786-1588-4DB0-AB4D-2C8E4E2C3182},17
+-66.58925916,45.97931919,437,4 River,16N Marysville,Shelter,Concrete,Yes Monolithic,432,No,,Yes,Yes,Good,,,Metal,Fair,Level 1: ADA Compliant,,,{D7AE1BBD-295F-4621-B71F-2C3DA35BCF34},16
+-66.58874013,45.98036258,438,Allen / River,16N Marysville,Standard on Metal Pole,Dirt,No,433,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{9CBCCA41-16E6-4DDF-9185-9596CE8512BB},16
+-66.58601205,45.98034269,439,40 Allen,16N Marysville,Standard on Metal Pole,Dirt,No,434,No,,No,No,Good,Fair,,,,Level 3: Not Accessible,,,{CAC50020-0352-4EB2-B722-2ED6EEB31A66},16
+-66.58549087,45.97940545,440,5 Downing,16N Marysville,Standard on Metal Pole,Dirt,No,436,No,,No,No,Poor,Good,,,,Level 3: Not Accessible,,,{EF3EC5A0-ADA3-4EF8-BD54-DCF2AC7FF6BA},16
+-66.71196716,45.93194543,441,Kingswood,14N Barkers Point,Standard on Metal Pole,Dirt,No,506,No,,No,No,,,,,,Level 3: Not Accessible,,,{8A9B019F-720E-404E-91E2-D695535E9D72},"14, 15"
+-66.64484813,45.94478343,442,Dineen,16N Marysville,Standard on Metal Pole,Asphalt,Yes Monolithic,390,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{BEA4F225-CD90-45E5-97EE-5F60624BFF7C},16
+-66.64489113,45.94578043,443,Dineen/ Pacey,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,364,No,,No,No,,,,,,Level 2: Accessible,,,{81C2E3F6-8DA9-469F-8BB2-B6B891943990},17
+-66.6398089,45.94878141,444,University/ MacKay,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,361,No,,No,No,,,,,,Level 2: Accessible,,,{3D6DDF90-E768-45AB-98A4-37490FE072C1},17
+-66.63954392,45.94901865,445,MacKay/Peter Kelly,16N Marysville,Decorative,Dirt,Yes Boulevard,394,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{D6EFE533-6DDF-49D3-8574-3625CD5E5466},16
+-66.63545479,45.92536814,446,Kimble/Huntington,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,618,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{0E4349A0-6D08-4D82-8AAF-F0BE4ED29FF8},216
+-66.63735289,45.92283373,447,Knowledge Park/ Alison,116 Kings Place,Shelter,Concrete,Yes Boulevard,629,No,,No,No,Good,Good,,,Glass,Level 1: ADA Compliant,,Con,{D68EB265-7517-4AFD-9625-DA6EE8D9147E},116
+-66.63752612,45.9229679,448,Kimble/Vanier,216 Corbett Centre,Standard on Metal Pole,Gravel,No,619,Yes,,No,No,,,,,,Level 3: Not Accessible,,Con,{DA3489FC-DE58-43D1-BAEF-1CC86F82396D},216
+-66.64316739,45.92213308,449,Grant Harvey,216 Corbett Centre,Standard on Metal Pole,Gravel,No,620,No,,No,No,,,,,,Level 3: Not Accessible,,,{D2B1B34B-8F8E-4ED9-934B-F7D4F6EE06FA},216
+-66.6432952,45.922006,450,,,,,,628,,,,,,,,,,,,,{4B9BCC9E-5F5E-4A72-AD84-B138022DACCE},
+-66.66246914,45.93190443,451,Knowlege Park/ Regent,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,376,No,,No,No,,,,,,Level 2: Accessible,,,{9B2BA77A-447F-4F29-AD3D-9F4139F01254},"10, 17, 116"
+-66.66141914,45.93407443,452,Regent Forestry Entrance,16N Marysville,Shelter,Gravel,No,380,No,,No,Yes,Good,,,Glass,Good,Level 3: Not Accessible,,,{C07EF3EE-0CA1-41CF-AC57-E2F9CECA9478},"10, 16"
+-66.65121865,45.9810433,453,102 Maple,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,127,No,,No,No,Good,Good,3,,,Level 2: Accessible,,,{7D26C643-03E4-4AC1-9D2D-4C3288EC9E91},12
+-66.63805913,46.00893944,454,43 Glenmar Dr,13S Prospect,Standard on Metal Pole,Dirt,No,3,No,,No,No,Good,Other,1,,,Level 3: Not Accessible,,,{AC4B8FC4-8875-4356-B75C-CB732FE176DC},13
+-66.62641713,45.97481244,455,333 Cliffe,15S Hanwell,Standard on Metal Pole,Paver Stones,Yes Boulevard,464,No,,Yes,Yes,Fair,Good,,,,Level 1: ADA Compliant,,RO,{50FDA582-1BD5-4FBF-B9F5-193B84864B8D},15
+-66.6191663,45.92784401,456,Lincoln/ Wilsey,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,592,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{BF7CFBFE-05DA-4C9D-93E8-12AB795B23EE},216
+-66.61899912,45.92784043,457,46 Wilsey,116 Kings Place,Standard on Metal Pole,Dirt,No,656,No,Near Driveway,No,No,,,,,,Level 3: Not Accessible,,,{D99FE9DB-FEC0-433C-BACD-CB11C956221C},116
+-66.61890941,45.9260204,458,140 Wilsey,116 Kings Place,Standard on Metal Pole,Dirt,No,655,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{4608D354-82B1-4BEC-BAA9-12ACDF3FFD1C},116
+-66.62015212,45.92209243,459,290 Wilsey,116 Kings Place,Standard on Metal Pole,Gravel,No,654,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{6586A32B-B220-47A9-ADE0-D17055A5CC80},116
+-66.61937312,45.91924843,460,370 Wilsey ,116 Kings Place,Standard on Metal Pole,Gravel,No,653,No,,No,No,,,,,,Level 3: Not Accessible,,,{F7057221-EF0C-4D8B-86A6-D8E0B8082AA5},116
+-66.61945411,45.91778636,461,245 Hilton,116 Kings Place,Standard on Metal Pole,Dirt,No,652,No,,No,No,,,,,,Level 3: Not Accessible,,,{08483E87-686F-46DC-9ADE-4D0F5F10EB4C},116
+-66.62172561,45.91745203,462,165 Hilton,116 Kings Place,Standard on Metal Pole,Gravel,No,651,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{901B66D4-71EC-4815-B4F0-E2BE5A7C6DD2},116
+-66.62303282,45.91930119,463,Flemming?Hubbard,116 Kings Place,Standard on Metal Pole,Dirt,No,650,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{DA7FB092-0004-473D-AC16-AFFFF91A10A9},116
+-66.62610181,45.92073337,464,142 Flemming,116 Kings Place,Standard on Metal Pole,Dirt,No,649,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{C31C8CC1-4EF7-47D8-A71C-5A9ED2FD34E5},116
+-66.62752736,45.92249481,465,250 Flemming,116 Kings Place,Standard on Metal Pole,Dirt,No,648,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{49B99898-F872-4F69-9B63-D61514B310F0},116
+-66.62767613,45.92424443,466,265 Wetmore,116 Kings Place,Standard on Metal Pole,Dirt,No,647,No,,No,No,,,,,,Level 3: Not Accessible,,,{B4C490B0-8635-4D0B-9B79-28506CD9EF1F},116
+-66.62554918,45.92548528,467,Wetmore/Pugsley,116 Kings Place,Standard on Metal Pole,Dirt,No,646,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{D444892F-755A-4F6E-ABE8-4F6DC0C84AB6},116
+-66.625011,45.92706472,468,Wetmore/Stoneybrook,116 Kings Place,Standard on Metal Pole,Dirt,No,645,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{D981A417-B070-4130-9FED-084D2AAF4F80},116
+-66.62497504,45.92770207,469,90 Wetmore,216 Corbett Centre,Standard on Metal Pole,Concrete,Yes Boulevard,603,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{586DE2CE-9F97-4632-A8B8-D058446C29E1},216
+-66.62495172,45.92883135,470,Wetmore/Kimble,116 Kings Place,Standard on Metal Pole,Dirt,No,644,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{39DA065D-5C34-4425-82F5-45ABFC4DC38F},116
+-66.62477843,45.92874353,471,54 Wetmore,216 Corbett Centre,Standard on Metal Pole,Dirt,Yes Boulevard,604,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{44177892-C105-4013-8F1A-EB181D6E0E6E},216
+-66.62009172,45.97711736,472,510 Cliffe,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,466,No,,No,No,Good,Fair,,,,Level 1: ADA Compliant,,RO,{4FE8CC71-DFE2-4D95-9764-F7A6A2CF5C1D},15
+-66.61386834,45.98075523,473,Cliffe/Manhattan,15S Hanwell,Standard on Metal Pole,Gravel,No,468,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,RO,{B92318DB-BD7B-490B-9EE2-7D0307AA98FB},15
+-66.6146916,45.98351547,474,Two Nations and Cliffe,15S Hanwell,Shelter,Concrete,Yes Monolithic,469,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{84DF3B7B-CC83-4C28-B66A-8D0C112EDF46},15
+-66.62524779,45.98561282,475,Two Nations @ Highland,15S Hanwell,Standard on Metal Pole,Gravel,No,471,No,,No,No,Good,Fair,,,,Level 3: Not Accessible,,,{ED24114C-F645-4D06-93ED-99667A91B7E7},15
+-66.62719176,45.98747598,476,Two Nations/ Smartcentres,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,472,No,,No,No,,,,,,Level 2: Accessible,,,{92EC56A8-FAEC-4860-9E6A-D1F475B21036},"14, 15"
+-66.63296211,45.984716,477,557 Saint Marys,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,474,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{41527C9C-A17A-4EBF-8ED3-84B37D39CA68},15
+-66.63320506,45.98292305,478,465 Saint Marys,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,475,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{CA57F4A9-1C26-4FA1-B8A7-0BAF2B83081F},15
+-66.63394413,45.97717744,479,283 Sanit Marys,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,477,Yes,,No,No,,,,,,Level 2: Accessible,,,{0BE0B31E-DFB9-477D-BA57-0AFCDC4DBD31},15
+-66.62015912,45.94731843,480,163 Riverside,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,452,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{208833CD-57B5-4AFF-94D1-F6380772D6F2},15
+-66.58767525,45.98928664,481,409 Canada,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,317,No,Retake looks bad,No,No,Poor,Other,1,,,Level 2: Accessible,,,{94B5D0F9-B7CE-42CD-900B-8E1A040E499A},17
+-66.62096012,45.92982243,482,Lincoln / Arbour Brook,216 Corbett Centre,Standard on Metal Pole,Concrete,Yes Monolithic,591,Yes,,No,No,,,,,,Level 2: Accessible,,,{2F7F9061-B0C5-4EB9-9449-AF4A1F8E17B0},"20, 216"
+-66.65794114,45.97853544,483,Nashwaaksis Place,10N Carlisle,,Concrete,Yes Monolithic,978,No,,Yes,No,Good,,1,,,Level 1: ADA Compliant,,,{FBE75883-F3F5-4B3C-AF49-EA52F7B00CF6},"10, 11"
+-66.63367013,45.97742844,484,300 Saint Marys,14N Barkers Point,Standard on Metal Pole,Dirt,No,537,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{17FBE73B-288D-48A2-939E-3D716C8ACB7D},14
+-66.63274255,45.98492282,485,546 Saint Marys,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,539,No,,No,No,,,,,,Level 2: Accessible,,,{3E522E15-A57A-4F9A-97F7-507B2098B1B0},14
+-66.61667279,45.98340427,486,460 Two Nations,14N Barkers Point,Shelter,Concrete,Yes Boulevard,542,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{815C5861-C418-48F3-9A4B-E5AC3B35793E},14
+-66.62490036,45.98537969,487,Two Nations/Highland,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,541,No,,No,No,,,,,,Level 3: Not Accessible,,,{5C8F6758-8094-482A-9478-C5CB44D205A1},14
+-66.61405612,45.98080244,488,Harold Doherty / Cliffe,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,543,No,,No,No,,,,,,Level 2: Accessible,,RO,{2BE70D3B-782D-4C36-A453-6AFF17514816},14
+-66.61998945,45.97731942,489,Leo Hayes / Cliffe,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,545,No,,No,No,,,,,,Level 2: Accessible,,RO,{B496EC30-8236-452C-AE2A-BDA7960E8E8D},14
+-66.62616762,45.97501208,490,333 Cliffe,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,547,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{59F25069-E250-4F22-848C-965911C3DCAB},14
+-66.61903796,45.95371177,491,Riverside/ Watters,14N Barkers Point,Shelter,Concrete,Yes Monolithic,555,No,,No,Yes,,,,,,Level 2: Accessible,,,{B49366EB-8073-41A5-A65E-C53CC2837885},149
+-66.59973449,45.95306763,492,262 Greenwood ,14N Barkers Point,Standard on Metal Pole,Grass ,Yes Boulevard,562,Yes,,No,No,,,,,,Level 2: Accessible,,,{E08C0DD1-C11F-42E8-B0B5-9C7868BB5272},149
+-66.66870114,45.96043068,493,130 Hanwell,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,111,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,RO,{377B3B47-3349-4417-8017-862FCA7DD3FD},12
+-66.66758468,45.95933301,494,303 Waggoners,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,110,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{CA77397E-5BFD-4F09-97C6-776AED1FFEEE},12
+-66.66188609,45.95841478,495,Across from Odell,12N Brookside ,Standard on Metal Pole,Concrete,Yes Boulevard,108,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO/Con,{7BF3EB13-4711-4EFB-879C-49ADD7A7E4EA},12
+-66.66286325,45.95864903,496,Odell Park,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,61,Yes,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,RO/Con,{F64E4CBA-8357-4911-A60A-12D462BD6775},13
+-66.71032097,45.97794141,497,Clements/Gardiner,11S Prospect ,Standard on Metal Pole,Gravel,Yes Monolithic,814,No,,No,No,,,,,,Level 1: ADA Compliant,,,{0F4C29C3-0BEB-41DC-BFEB-CDB083F599B0},11
+-66.69595456,45.95464722,498,Patience,15S Hanwell,Standard on Metal Pole,Concrete,No,806,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{DC19CF08-8D15-4303-AD9D-98F52527F40E},15
+-66.69676782,45.95647847,499,221 Rainsford,15S Hanwell,Standard on Metal Pole,Dirt,No,807,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{6B325F35-E907-494C-B2ED-FE153BDBD16E},15
+-66.69485882,45.94394141,500,Valcour and Ashton,14N Barkers Point,Standard on Metal Pole,Dirt,No,508,No,,No,No,,,,,,Level 3: Not Accessible,,,{E61BF266-840C-43FC-A640-394A5B7BB2DD},14
+-66.69256062,45.94277891,501,Valcour/ Lian,14N Barkers Point,Standard on Metal Pole,Dirt,No,509,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{932C867D-4DFB-46E1-B23C-340692FE6E90},14
+-66.69036564,45.94322863,502,50 Lian,14N Barkers Point,Standard on Metal Pole,Concrete,No,510,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{EB9DEC8D-BCB7-4824-99F4-3E3F9FEA2DB1},14
+-66.69349843,45.94725424,503,Woodside/ Hanwell,15S Hanwell,Standard on Metal Pole,Dirt,Yes Monolithic,501,Yes,,No,No,Good,Fair,2,,,Level 2: Accessible,,,{49FDBF1C-EB8E-4CEB-814A-669889BD15A7},15
+-66.66956914,45.96229543,504,Woodstock/Hanwell,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,740,Yes,,No,No,,,,,,Level 2: Accessible,,,{8A37A51C-86CC-4DB5-AFDA-791450740BCB},18
+-66.67815136,45.96369919,505,720 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,783,Yes,Retake,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{07E38F1F-5C35-48DC-A2D4-D863BFCE2009},18
+-66.67463114,45.96207443,506,Woodstock/Golf Club,18 Silverwood,Standard on Metal Pole,Concrete,Yes Monolithic,784,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{B830EF70-4843-428E-B6CA-4ABA1BD6F921},18
+-66.6723942,45.96162905,507,Woodstock/Marlborough,18 Silverwood,Standard on Metal Pole,Concrete,Yes Monolithic,785,No,Retake,No,No,Good,Good,1,,,Level 2: Accessible,,,{D869008E-2105-44B1-BEF0-FBADF1F67DE6},18
+-66.67241335,45.96177877,508,531 Woodstock,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,741,No,,No,No,,,,,,Level 2: Accessible,,,{2EF785F9-1102-4C4F-8DFE-DF1EF1379655},18
+-66.67500514,45.96248943,509,Woodstock/Golf Club,18 Silverwood,Standard on Metal Pole,Dirt,No,742,No,,No,No,,,,,,Level 3: Not Accessible,,,{2A138473-DCB4-4950-9BA3-6F1832C072A4},18
+-66.67812815,45.96383043,510,737 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,743,No,,No,No,,,,,,Level 3: Not Accessible,,,{2986832E-9FC6-4B83-BB78-1E80D06C44CE},18
+-66.69218589,45.96556946,511,Woodstock/Angelview,18 Silverwood,Shelter,Concrete,Yes Monolithic,780,No,Glass Shelter,No,No,Good,,1,Glass,Good,Level 2: Accessible,,,{308C4201-E880-41CA-8CFC-5A19D80F258D},18
+-66.68697757,45.96541158,512,960 Woodstock,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,781,No,,No,No,Good,Good,1,,,Level 2: Accessible,,,{99FD4430-5502-44FA-A701-254A17AA493F},18
+-66.68089815,45.96434643,513,Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,782,Yes,,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{44980D03-BE38-47F2-97DD-9806C4231109},18
+-66.68106215,45.96450543,514,817 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,744,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{6E89CFE9-426F-4C46-A2D4-DF1203186BBA},18
+-66.68780691,45.96552936,515,967 Woodstock,18 Silverwood,Standard on Metal Pole,Concrete,Yes Monolithic,745,Yes,,No,No,,,,,,Level 1: ADA Compliant,,,{9CEBFAFD-BD34-4069-B0DF-BF085F3159EA},18
+-66.69177215,45.96565643,516,Dural Park,18 Silverwood,Standard on Metal Pole,Gravel,No,746,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{4BFECC5D-19A4-4674-A499-28DA3004CEAE},18
+-66.71127932,45.96650835,517,1600 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,777,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{795A7F0C-ED11-4427-BD8F-03D697C5EA91},18
+-66.70611654,45.9664064,518,1460 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,778,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{ABB17920-CBD9-4CAD-B7DB-5958B07391FA},18
+-66.70014666,45.96533542,519,Woodstook/Still Water,18 Silverwood,Standard on Metal Pole,Concrete,Yes Monolithic,779,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{562C32D7-F075-4695-AC40-6CEBDFC95EC1},18
+-66.70071046,45.96540144,520,Woodstock/Still Water,18 Silverwood,Standard on Metal Pole,Gravel,No,747,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{2AC81522-8DE5-4DA9-A274-EBC2C68C8380},18
+-66.70625675,45.9665422,521,1475 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,748,No,,No,No,,,,,,Level 3: Not Accessible,,,{86920A37-58E4-46FE-9473-C2713B90FA7B},18
+-66.71121416,45.96662643,522,Woodstock/ Prospect,18 Silverwood,Standard on Wooden Pole,Dirt,No,749,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{B0DA2FC1-4014-42EB-9B36-56C21641A749},18
+-66.73083619,45.96729703,523,2100 Woodstock,18 Silverwood,Standard on Metal Pole,Asphalt,No,772,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{B4780678-D078-42C2-9DFA-C7A3EABB2090},18
+-66.72738625,45.96745903,524,Woodstock/Nethervue,18 Silverwood,Standard on Metal Pole,Gravel,No,773,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{D8CE4EDC-A30D-45AD-917C-D5AFD30B1A58},18
+-66.72433616,45.96726343,525,Woodstock/Monteith,18 Silverwood,Standard on Metal Pole,Gravel,No,774,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{CC8F319E-A4E5-4D78-895C-FCC02F6F13FC},18
+-66.71807883,45.96704498,526,Woodstock/Rosewood,18 Silverwood,Standard on Metal Pole,Gravel,No,776,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{35268169-3B6A-4AB9-A7F3-BE6932DDE7C3},18
+-66.71800316,45.96721543,527,1741 Woodstock,18 Silverwood,Standard on Metal Pole,Dirt,No,750,No,,No,No,,,,,,Level 3: Not Accessible,,,{DBF22BE5-82EF-4AF7-BAD8-41B8543735DF},18
+-66.72455916,45.96750643,528,Woodstock/Monteith,18 Silverwood,Standard on Metal Pole,Gravel,No,964,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{08A652B1-DB0B-47A1-8091-5825D355BBCF},18
+-66.72819516,45.96762243,529,Woodstock/Nethervue,18 Silverwood,Standard on Metal Pole,Asphalt,No,752,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{D97A1C40-08BE-46C9-9885-0B209DC54327},18
+-66.73119366,45.96740939,530,Woodstock,18 Silverwood,Standard on Metal Pole,Asphalt,No,753,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{4FEF0C66-6776-4535-B785-77416B9AA98E},18
+-66.76016028,45.96505027,531,2910 Woodstock,18 Silverwood,Standard on Metal Pole,Asphalt,No,767,No,,No,No,Good,Fair,1,,,Level 3: Not Accessible,,,{2D80284E-B9BA-42FB-8D38-49EC803BE2DF},18
+-66.75606662,45.96474446,532,2800 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,768,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{2B767950-09D8-4450-A4F7-9604E682EF5D},18
+-66.75103517,45.96447943,533,Woodstock/Glen Eyre,18 Silverwood,Standard on Metal Pole,Gravel,No,769,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{C23E1053-D702-4A30-A8F2-090D92F4D0DE},18
+-66.74285924,45.96556157,534,Woodstock/springhill,18 Silverwood,Standard on Metal Pole,Asphalt,No,770,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{4146A184-0B76-41B8-85C7-C03732AE40BF},18
+-66.73554724,45.96691717,535,2280 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,771,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{67458F1E-2797-47A3-92C4-E78FDA3FE6D7},18
+-66.75187217,45.96465143,536,Woodstock/Riverfront,18 Silverwood,Standard on Metal Pole,Asphalt,No,756,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{25DEF4DD-AB3D-4C9D-9A07-F616D617E2BF},18
+-66.75612917,45.96492843,537,2783 Woodstock,18 Silverwood,Standard on Metal Pole,Asphalt,No,757,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{DCA816CD-7895-4721-90F0-518146566619},18
+-66.73535457,45.96707177,538,Woodstock,18 Silverwood,Standard on Metal Pole,Asphalt,No,754,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{79E34002-7E2F-4C54-8827-3F161A3A05FB},18
+-66.74331817,45.96568743,539,Woodstock/Springhill,18 Silverwood,Standard on Metal Pole,Asphalt,No,755,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{512CD11C-1C85-4692-9903-7C355E5108A9},18
+-66.76024317,45.96520743,540, Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,758,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{7B770819-CAA4-4094-A292-41C62883FE4E},18
+-66.76633718,45.96529343,541,3076 Woodstock,18 Silverwood,Standard on Metal Pole,Gravel,No,766,No,,No,No,Good,,1,,,Level 3: Not Accessible,,,{C57EF57F-56E1-4292-B7B3-186EC078447A},18
+-66.76411618,45.96470543,542,Orchard/Woodstock,18 Silverwood,Standard on Metal Pole,Dirt,No,759,Yes,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{5D1F2228-C20B-4F78-8539-22D39338DD27},18
+-66.76396917,45.96331743,543,Orchard/Robin,18 Silverwood,Standard on Wooden Pole,Dirt,No,760,No,Retake ,No,No,Unknown,Good,,,,Level 3: Not Accessible,,,{1861B04E-3338-46AA-86B0-43EFFC74EE6A},18
+-66.76378321,45.96203844,544,Orchard/Islandview,18 Silverwood,Standard on Metal Pole,Dirt,No,963,Yes,,No,No,Unknown,Good,2,,,Level 3: Not Accessible,,,{F5C325ED-9E43-48EF-9970-2EBBB8829A46},18
+-66.76438917,45.96063043,545,Mountain/Silverwood,18 Silverwood,Standard on Metal Pole,Dirt,No,761,Yes,,No,No,Good,Fair,,,,Level 3: Not Accessible,,,{ABBE9D7C-6931-4D4F-A9F4-EE20F41C64B9},18
+-66.76618318,45.96049643,546,Mountain/Fairview,18 Silverwood,Standard on Metal Pole,Dirt,No,762,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{1A8650FC-53CA-4D9A-981B-B694B6561032},18
+-66.76742418,45.96170043,547,Fariview/Islandview,18 Silverwood,Standard on Metal Pole,Dirt,No,763,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{AF87E303-4837-4436-91E0-8D5E4942366E},18
+-66.76836018,45.96336843,548,Fairview/Arlington,18 Silverwood,Standard on Metal Pole,Dirt,No,764,Yes,,No,No,Good,Good,4,,,Level 3: Not Accessible,,,{B4CF3586-3E26-4596-887E-EC71243B8CB2},18
+-66.76943318,45.96499543,549,Fairview/ Woodstock,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,765,Yes,Retake,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{9792423C-6E3A-41FB-9174-FB87EB78B5FB},18
+-66.61787009,45.9285455,550,534 Lincoln,20 Lincoln ,Standard on Metal Pole,Concrete,Yes Monolithic,688,No,,No,No,,,,,,Level 2: Accessible,,,{69F644C9-A808-41D7-8527-4E6B7A65010E},20
+-66.61618273,45.92794637,551,576 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,689,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{22B8B954-A94E-43C3-932A-3A9ABF58E457},20
+-66.60633212,45.92584343,552,Research Entrance,20 Lincoln ,Standard on Metal Pole,Dirt,No,690,No,,No,No,,,,,,Level 3: Not Accessible,,,{57F3EB62-4A4F-4583-8BE6-A1D52EBD6DB3},20
+-66.5987323,45.92105916,553,1116 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,691,No,,No,No,,,,,,Level 2: Accessible,,,{550DAF9D-5DD1-4C47-B246-214ECBDDC597},20
+-66.5985134,45.92110198,554,1119 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,717,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{8566176C-86F7-41E8-8263-67637D42B7F5},20
+-66.60638007,45.92599695,555,Research Station,20 Lincoln ,Shelter,Concrete,No,718,No,,No,Yes,Good,,,Metal,Fair,Level 2: Accessible,,,{6F635709-D3F7-458D-80C5-C555B209F2E3},20
+-66.61612508,45.92803678,556,596 Lincoln,20 Lincoln ,Standard on Metal Pole,Gravel,No,719,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{294ED703-BADA-425D-A188-F4714165CC4E},20
+-66.59697852,45.92003176,557,1214 Lincoln,20 Lincoln ,Standard on Wooden Pole,Dirt,Yes Boulevard,693,No,,No,No,,,,,,Level 2: Accessible,,,{883C1716-A8BB-4DA2-B0D2-F1CB3C096405},20
+-66.5949157,45.91876403,558,1238 Lincoln,20 Lincoln ,Standard on Metal Pole,Concrete,Yes Monolithic,694,Yes,,No,No,,,,,,Level 2: Accessible,,,{B955D07C-AF6A-46D0-A1B3-A87F18D5FD6E},20
+-66.59228985,45.91687159,559,Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,695,No,,No,No,,,,,,Level 2: Accessible,,,{3B5469D2-16A2-4681-A12E-BF92B54D2B0D},20
+-66.58921611,45.91436443,560,1467 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,713,No,,No,No,,,,,,Level 3: Not Accessible,,,{B24953A1-34CF-45A1-9D3A-B96EF4E5DE3E},20
+-66.59203214,45.91681211,561,1343 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,714,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{E9731C50-4E16-4900-9104-E149B8BB5005},20
+-66.59484363,45.91890526,562,1243 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,715,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{6CE375D8-C176-4FD1-ABC9-6401F1BE3459},20
+-66.59713884,45.92026217,563,1165 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,716,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{36AA1AA0-5921-4B82-BBB7-EC0194EA9E77},20
+-66.58243111,45.90736343,564,1759 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,702,No,,No,No,,,,,,Level 3: Not Accessible,,,{E0DFD3ED-D7FA-4C5E-A729-FF85D9805F4A},20
+-66.58256464,45.90727251,565,1766 Lincoln,20 Lincoln ,Standard on Wooden Pole,Dirt,No,698,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{6C019A15-33F8-43BF-92BD-4A45CBF43479},20
+-66.58635126,45.91060255,566,1604 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,697,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{C727FE24-8087-419D-939B-5D45A9106E7E},20
+-66.58878084,45.91336991,567,Adams/Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,794,Yes,Sign blocked by bushes,No,No,Good,Fair,2,,,Level 3: Not Accessible,,,{C9BEA3F7-8900-41E2-B6A9-CCDDBF09AC5E},20
+-66.58891911,45.91179143,568,77 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,No,795,No,Sign fading,No,No,Fair,Good,1,,,Level 3: Not Accessible,,,{08470DE9-8DA4-4F31-B43D-010D7FE079D5},20
+-66.58903911,45.91046543,569,Adams/Piercy,20 Lincoln ,Standard on Metal Pole,Dirt,No,796,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{3FB032A3-011A-4FED-9865-6EC6B8F7EE48},20
+-66.58994711,45.90959543,570,183 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,No,790,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{FA1143AD-ED69-4991-8E20-69E2169F7AF7},20
+-66.59089611,45.90807743,571,235 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,No,798,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{7F1B0D5F-13DB-4E99-9EDB-B2A0624AD0C9},20
+-66.59192908,45.90662275,572,123 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,797,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{200591B1-30D5-4DEA-98F7-B12067BC1B8B},20
+-66.59427611,45.90622943,573,183 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,800,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{FAEA1EBE-F91A-4FF9-BD93-397EB8ABE2A5},20
+-66.59559811,45.90498343,574,243 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,801,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{F686BEE5-FEC1-4379-84C2-87391B327AF1},20
+-66.59292021,45.90467026,575,76 Leisure,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,802,No,Retake,No,No,Good,Other,1,,,Level 2: Accessible,,,{7DBD4EFC-6026-4D13-A03D-FC588AA7EC50},20
+-66.59169378,45.90272844,576,Leah/Vanier Industrial,20 Lincoln ,Standard on Metal Pole,Dirt,No,804,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{7258C63D-D0D2-4A24-8C8B-E15087FB26B2},20
+-66.58587011,45.90829443,577,Vanier Industrial/Lincoln,20 Lincoln ,Standard on Metal Pole,Gravel,No,805,Yes,Retake,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{153A85EF-0ED1-467B-BEE7-E2102696B84B},20
+-66.58561211,45.90873243,578,Vanier/Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,970,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{F5E3B488-1100-44A9-AB61-19926B183499},20
+-66.59162411,45.90283843,579,Leah/Vanier Industrial,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,703,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{2061153A-47D9-4D8A-ADAF-3DB9B0C9A9CE},20
+-66.5939085,45.90409378,580,117 Leisure,20 Lincoln ,Standard on Metal Pole,Dirt,No,972,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{F01480EE-1D70-4932-9F24-58F65B46C1C1},20
+-66.59554867,45.90479624,581,246 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,No,705,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{27A3D243-674D-4A49-9CE5-8C07921B3B79},20
+-66.59434644,45.90603757,582,180 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,No,706,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{A5CC47D3-CFDE-40AC-ADC2-EC5167303863},20
+-66.59104596,45.9071514,583,300 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,708,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{E94B7E52-6694-47B6-B74D-29EE91C12B25},20
+-66.59061184,45.90858393,584,218 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,709,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{5717885A-D358-4274-AE11-C1AABA27539D},20
+-66.58913485,45.91012879,585,142 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,710,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{2B550E11-938A-473B-8F55-F276F08763A5},20
+-66.58870183,45.91164198,586,74 Adams,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,711,No,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{29C3A590-7620-4D12-BAAD-FEF1E2FDFAD9},20
+-66.58918453,45.91272252,587,Adams/Lonewater,20 Lincoln ,Standard on Metal Pole,Concrete,Yes Boulevard,712,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{9E05A5B7-DD9B-4888-8100-CD6E162A25A3},20
+-66.58020511,45.90581943,588,1850 Lincoln,20 Lincoln ,Standard on Metal Pole,Dirt,No,699,No,,No,No,,,,,,Level 3: Not Accessible,,,{927E8A5B-CAA4-4585-8878-B197928586A6},20
+-66.57797511,45.90416043,589,McFadzen,20 Lincoln ,Standard on Metal Pole,Gravel,No,700,No,,No,No,,,,,,Level 3: Not Accessible,,,{2805B794-7FA8-4552-96B9-893D384D4EBD},20
+-66.57961563,45.90562176,590,1853 Lincoln,20 Lincoln ,Standard on Metal Pole,Gravel,No,701,No,,No,No,,,,,,Level 3: Not Accessible,,,{0714CFBE-7808-4942-B6E9-3D75F1451EEE},20
+-66.64289263,45.96150713,591,Kings Place,11S Prospect ,Decorative,Concrete,Yes Monolithic,848,No,,No,No,,,,,,Level 1: ADA Compliant,,,{16ECAC74-5BD3-47AE-9842-0848E134BB3A},11
+-66.66273314,45.92914443,592,Corbett Centre,10N Carlisle,Shelter,Concrete,Yes Boulevard,377,No,,No,Yes,,,,,,Level 1: ADA Compliant,,RO,{83C178E7-8035-47ED-9197-013D5FE699C8},"10, 16, 17, 216"
+-66.64230592,45.96125659,593,Kings Place,10N Carlisle,Decorative,Concrete,Yes Monolithic,918,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,,{D02B8B13-DFD7-4D50-9CBB-09F17AE42FF4},10
+-66.64243664,45.96130522,594,Kings Place,12N Brookside ,Decorative,Concrete,Yes Monolithic,119,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{9DA82566-2CDA-45FE-A23A-666DC1BF1623},12
+-66.64260042,45.96137709,595,Kings Place,14N Barkers Point,Decorative,Concrete,Yes Monolithic,533,No,,No,No,,,,,,Level 1: ADA Compliant,,,{87CDCDBF-A0E1-4E71-B112-73788C0883BD},14
+-66.60822089,45.93611419,596,Food Bank,15S Hanwell,Standard on Metal Pole,Dirt,No,450,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,RO,{35A094ED-755E-4A38-80DC-A7E2ECCE36DD},15
+-66.64323313,45.96166243,597,Kings Place,15S Hanwell,Decorative,Concrete,Yes Monolithic,479,No,,No,No,,,,,,Level 1: ADA Compliant,,,{98C9A543-658F-476A-B2C0-02F3A46F7B54},15
+-66.64337419,45.96169996,598,Kings Place,17S Regent,Decorative,Concrete,Yes Monolithic,353,No,,No,No,Good,Good,1,,,Level 1: ADA Compliant,,,{7BB4B5B8-A821-4871-800F-36C46C7F2050},17
+-66.65374365,45.93885643,599,Hospital,16N Marysville,Shelter,Concrete,Yes Monolithic,370,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{E2B136CE-D388-4176-BA9D-A8EA43CF4BC8},"16, 17"
+-66.64278428,45.96145926,600,Kings Place,16N Marysville,Decorative,Concrete,Yes Monolithic,402,No,,No,No,,,,,,Level 1: ADA Compliant,,,{A74256C5-B23A-40D4-8B43-A45265BFD438},16
+-66.63997313,45.95000443,601,Beaverbrook/University,11S Prospect ,Shelter,Concrete,No,662,Yes,Yes ,No,No,,,,,,Level 1: ADA Compliant,,,{1E324562-F0FE-41FC-B254-1210A0B84375},11
+-66.6421444,45.96118016,602,Kings Place,216 Corbett Centre,Decorative,Concrete,Yes Monolithic,567,No,,No,No,,,,,,Level 1: ADA Compliant,,,{8A38065F-7637-4326-9AAC-C14E84964460},216
+-66.63719185,45.94735458,603,Currie Center,216 Corbett Centre,Standard on Metal Pole,Concrete,Yes Monolithic,577,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{7DEE1693-A43C-4A29-B5CF-56D809A41ABB},"11, 216"
+-66.64861293,45.97608922,604,280 Main,11S Prospect ,Shelter,Concrete,Yes Boulevard,838,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{31105C1B-E0F7-40B7-A734-D33990F6959A},11
+-66.64775813,45.96361743,605,226 King,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,48,Yes,,No,No,Good,Good,2,,,Level 1: ADA Compliant,,,{3D5A4050-638F-4178-B3B3-61A27DE16FF3},"17,13,15,11"
+-66.64868678,45.98610029,606,341 Fulton,13S Prospect,Shelter,Concrete,No,35,No,,No,Yes,Good,,1,Metal,Fair,Level 1: ADA Compliant,,RO,{16FC03F4-A62B-4730-980C-8A0068CBC2F6},13
+-66.66598077,45.94077216,607,1130 Prospect,13S Prospect,Shelter,Concrete,Yes Boulevard,80,No,Retake ,No,Yes,Unknown,Good,1,Glass,Good,Level 1: ADA Compliant,,,{131B104D-B9A0-4E68-ADEA-BB83D27839BF},"13, 14"
+-66.65102014,45.95373743,608,548 York,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,529,Yes,,No,No,,,,,,Level 1: ADA Compliant,,RO,{5B663E33-F4BA-4728-91A3-9B5D9F6D9A58},14
+-66.6329216,45.98359874,609,Saint Marys,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,538,No,,No,No,,,,,,Level 1: ADA Compliant,,,{DF913BE6-0298-4FC4-8074-C0E5D4AC452F},14
+-66.61598013,45.97907344,610,Willy O'Ree,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,544,No,,No,No,,,,,,Level 1: ADA Compliant,,RO,{883DFBCB-6720-4701-9FFF-6EC8AAB928FF},14
+-66.62511386,45.96160158,611,Gibson and Union,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,552,No,,No,No,,,,,,Level 3: Not Accessible,,,{29E87997-E7F8-4590-B303-DA7C9917983E},14
+-66.61508073,45.97942418,612,Cliffe across from Willie O'Ree,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,467,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,RO,{EE5571C8-ACBB-4379-A60F-075D5E19AAE9},15
+-66.63335955,45.98137627,613,411 Saint Marys,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,476,Yes,,No,No,Good,Good,3,,,Level 2: Accessible,,,{34256551-8999-42D9-9DA0-3D9D7A68DF08},15
+-66.66101614,45.93374043,614,James Flemming/ Regent,10N Carlisle,Standard on Metal Pole,Gravel,No,378,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{F69490AB-B206-4CA6-A9AE-DCC5EC28F105},"10, 16"
+-66.62703044,45.97121445,615,MacLaren/Clark,16N Marysville,Standard on Metal Pole,Dirt,Yes Boulevard,409,Yes,,No,No,,,,,,Level 2: Accessible,,,{BAA15AA8-BACC-491B-ADB3-46230A7DDFAD},16
+-66.59206505,45.98568684,616,Check GPS point not accurate,17S Regent,Standard on Metal Pole,Dirt,No,319,No,,No,No,Fair,Good,1,,,Level 3: Not Accessible,,,{32898D5D-E41E-4C0D-AA23-80E02A1AF4F9},17
+-66.63903313,45.94667843,617,MacKay/Garland,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,362,No,,No,No,,,,,,Level 2: Accessible,,,{156548DD-D1A9-41BC-973C-4D13FD25430A},17
+-66.64363195,45.96182425,618,Kings Place,20 Lincoln ,Decorative,Concrete,Yes Monolithic,672,No,,No,No,,,,,,Level 1: ADA Compliant,,,{514B6BE3-BA0C-4E89-9901-AEA7D6219DA4},20
+-66.65812044,45.96503865,619,Old Government House,18 Silverwood,Shelter,Concrete,Yes Boulevard,736,No,,No,No,,,,,,Level 2: Accessible,,,{E08BCD11-13FD-473E-BF28-F8FC9CB69C8F},"13, 18"
+-66.66833998,45.96289732,620,Woodstock/Hanwell,18 Silverwood,Standard on Metal Pole,Dirt,Yes Boulevard,739,No,,No,No,,,,,,Level 3: Not Accessible,,,{D83D94AE-6BBC-49B0-9633-6C5225469804},18
+-66.63453713,46.00992044,621,Brookside & Burns,12N Brookside ,Standard on Metal Pole,Dirt,No,160,No,,No,No,Poor,Good,1,,,Level 3: Not Accessible,,,{64137943-9060-45F4-ABF2-A785556F7E14},12
+-66.65842114,45.98393544,622,66 Hawkins,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,25,No,Retake,No,No,Unknown,Other,1,,,Level 2: Accessible,,,{57E5267E-205F-4C28-A4EB-A36A7674CE15},13
+-66.65360814,45.98816044,623,302 Brookside,13S Prospect,Standard on Metal Pole,Gravel,No,29,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{CCD176C4-89DA-4DDE-A209-5113D3347FCD},13
+-66.64307005,45.9615819,624,Kings Place,13S Prospect,Decorative,Concrete,Yes Monolithic,49,No,,Yes,No,Good,Good,1,,,Level 1: ADA Compliant,,,{ADA096CE-DAB6-4306-B4DD-386CBCF0A80D},13
+-66.65344603,45.96452225,625,65 Brunswick ,13S Prospect,Standard on Metal Pole,Concrete,Yes Monolithic,54,No,Retake,Yes,No,Good,Good,1,,,Level 2: Accessible,,,{7FC2EA92-031B-44E9-8E73-2738562DB2DF},"13, 18"
+-66.66605013,45.95905886,626,203 Waggoners,12N Brookside ,Standard on Metal Pole,Dirt,Yes Boulevard,109,No,,No,No,Good,Good,1,,,Level 2: Accessible,,RO,{D4C3F8C4-0E74-4F01-84C7-A82AC6BAA840},12
+-66.65807056,45.9838272,627,67 Hawkins,12N Brookside ,Standard on Metal Pole,Dirt,No,139,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{F82073AF-D0AD-4F56-8FAD-29BC16613FCA},12
+-66.66606781,45.95893443,628,203 Waggoners,13S Prospect,Standard on Metal Pole,Dirt,No,60,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,RO,{5284382C-9033-486A-8B92-36B7B8A00F99},13
+-66.63282665,45.9713466,629,130 Cliffe,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,463,Yes,,No,No,,,,,,Level 2: Accessible,,,{D9CD97BC-7166-4DE9-92C8-0B072072A609},15
+-66.62341433,45.97574033,630,Cliffe Street,15S Hanwell,Standard on Metal Pole,Paver Stones,No,465,No,,No,Yes,Good,Fair,,,,Level 3: Not Accessible,,RO,{525C3D7A-1C9D-40B7-879F-9C8E509E3BC5},15
+-66.62909595,45.9880921,631,Smartcentres,15S Hanwell,Standard on Metal Pole,Concrete,Yes Monolithic,473,No,,No,No,,,,,,Level 2: Accessible,,,{78DF1018-F6E3-446B-B581-1CDE5B2B1221},15
+-66.65345598,45.95112356,632,651 York,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,487,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,,{8DF85C6C-E693-4EFA-B48D-074F77B531CA},15
+-66.65321814,45.95118343,633,648 York,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,528,Yes,,No,No,,,,,,Level 2: Accessible,,,{F0FF0A3B-5A25-483E-8DA9-F5DB6D5F3935},14
+-66.62355358,45.97582922,634,Cliffe / Fieldstone,14N Barkers Point,Standard on Metal Pole,Dirt,Yes Boulevard,546,No,,No,No,,,,,,Level 2: Accessible,,RO,{93EE886C-D32F-470F-B169-F1166C29C8CD},14
+-66.63535765,45.95834312,635,778 King,17S Regent,Standard on Metal Pole,Dirt,Yes Boulevard,355,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,,{5B67ED08-C302-41AF-9092-84839C69F459},"11, 17, 20"
+-66.63407599,45.95561696,636,189 University,17S Regent,Standard on Metal Pole,Dirt,No,356,Yes,,No,No,Good,Good,2,,,Level 3: Not Accessible,,RO,{132CD6AE-0912-4E37-9512-A69992BE5BFD},17
+-66.65107066,45.93895091,637,Priestman/College Hill,17S Regent,Standard on Metal Pole,Concrete,Yes Monolithic,369,No,,No,No,,,,,,Level 2: Accessible,,RO,{BD0FA551-7D4A-445F-87A9-E8572170573A},17
+-66.64471186,45.94577851,638,Dineen/Pacey,16N Marysville,Shelter,Concrete,Yes Monolithic,966,No,Brick shelter good condition. No bus sign.,,No,,,1,,,Level 2: Accessible,,,{8367DC62-924D-49EA-91BE-AE19375D85AC},16
+-66.63912267,45.94516945,639,58 MacKay,16N Marysville,Standard on Metal Pole,Asphalt,Yes Monolithic,393,No,,No,No,Good,Good,,,,Level 2: Accessible,,,{E4F44ECE-031B-464D-8F21-BBCC9059ECD9},16
+-66.64016113,45.95959143,640,101 Regent,216 Corbett Centre,Standard on Metal Pole,Concrete,Yes Monolithic,568,Yes,,No,No,,,,,,Level 1: ADA Compliant,,,{EF92A940-3CA0-442D-A19A-DB1D6E845682},216
+-66.63494973,45.94545155,641,Waterloo/Forest Hill,11S Prospect ,Standard on Metal Pole,Dirt,No,585,No,,No,No,,,,,,Level 3: Not Accessible,,,{388EB140-9883-4C8D-874D-54F6E386E40B},"11, 20, 216"
+-66.62257709,45.91912431,643,Hilton / Hubbard,216 Corbett Centre,Standard on Metal Pole,Gravel,No,597,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{E5B0F171-B3A9-492A-9452-92F28427AB1B},216
+-66.64567633,45.92356388,644,Grant Harvey Soccer,216 Corbett Centre,Standard on Metal Pole,Gravel,No,621,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{752490E8-E7F5-40EB-8DBB-4AD589D9DC0F},216
+-66.64581694,45.9234848,645,Knowledge Park,116 Kings Place,Standard on Metal Pole,Gravel,No,627,No,,No,No,,,,,,Level 3: Not Accessible,,,{8252DF4D-EC64-419F-A1EA-440550B64972},116
+-66.62985013,45.93282843,646,775 Forest Hill,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,641,No,,No,No,,,,,,Level 2: Accessible,,,{4E427BB0-5DE4-433B-9DB8-5A1B164E87E3},"10, 116"
+-66.7213175,45.97775695,647,Clements/McGregor,11S Prospect ,Standard on Metal Pole,Gravel,No,811,Yes,,No,No,,,,,,Level 3: Not Accessible,,,{C63D54C1-CAB9-48D5-8DBE-F15E7985943B},11
+-66.71474991,45.97768309,648,Clements/Spencer,11S Prospect ,Standard on Metal Pole,Gravel,No,813,No,,No,No,,,,,,Level 3: Not Accessible,,,{0B0F61AD-7EEC-49D2-8F68-B87F373505D8},11
+-66.70515045,45.97818735,649,Clements/Jasper,11S Prospect ,Standard on Metal Pole,Dirt,No,981,Yes,,No,No,Good,Good,5,,,Level 3: Not Accessible,,,{14F5CB30-F835-4FF2-84C3-23A85ACF18BA},11
+-66.6303909,45.93870754,650,Biggs/Lincoln,11S Prospect ,Standard on Metal Pole,Dirt,No,859,No,,No,No,,,,,,Level 3: Not Accessible,,RO,{37EBEA36-4447-49AE-AA18-3D943B73F859},11
+-66.63029742,45.93885387,651,Biggs/ Lincoln,10N Carlisle,Standard on Metal Pole,Concrete,Yes Monolithic,909,Yes,,No,No,Good,Good,2,,,Level 2: Accessible,,RO,{2FFFE2A7-401F-4494-BB21-F4B0E56EB4BD},10
+-66.72279849,45.97795668,652,Clements/Diamond,10N Carlisle,Standard on Metal Pole,Dirt,Yes Boulevard,954,No,,No,No,,,,,,Level 2: Accessible,,,{60FF0964-F632-4600-B7BE-0D6DD4AA7753},10
+-66.59183811,45.90514843,653,Dora,20 Lincoln ,Standard on Metal Pole,Dirt,No,704,No,,No,No,Fair,Good,,,,Level 3: Not Accessible,,,{ADADF67D-D332-47C8-BF9F-A239F784176A},20
+-66.59272295,45.90638969,654,144 Goodine,20 Lincoln ,Standard on Metal Pole,Dirt,No,707,Yes,,No,No,Good,Good,3,,,Level 3: Not Accessible,,,{C1821E53-60F8-412F-BF33-8941A5084B0F},20
+-66.72141332,45.96732622,655,Woodstock/Gervais,18 Silverwood,Standard on Metal Pole,Asphalt,No,751,No,,No,No,Good,Good,,,,Level 3: Not Accessible,,,{B8E83EFD-5225-4AD0-BF48-12881808FCB6},18
+-66.72108216,45.96716443,656,Woodstock/Gervais,18 Silverwood,Standard on Metal Pole,Asphalt,No,775,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{46FE4C49-836E-4AF6-9A5C-DCFC79267ACF},18
+-66.59190901,45.90504663,657,Dora/Leisure,20 Lincoln ,Standard on Metal Pole,Dirt,Yes Boulevard,803,Yes,,No,No,Good,Good,1,,,Level 2: Accessible,,,{EA08B49B-7DDC-4BBA-BCA0-4587F05E2CBC},20
+-66.65425692,45.99524845,658,Stairs / Reynolds,12N Brookside ,Standard on Metal Pole,Dirt,No,984,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{49F6C172-40C8-40F2-8A39-7395E866CB30},12
+-66.62696096,45.96464577,659,716 Union street ,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Monolithic,57,Yes,,No,No,Good,Fair,2,,,Level 2: Accessible,,,{7F2D23B0-7BAC-452A-A8C6-6C722A057D6D},14
+-66.63275116,45.97168434,660,125 Cliffe street,14N Barkers Point,Standard on Metal Pole,Concrete,Yes Boulevard,34,No,,No,No,Good,Good,,,,Level 1: ADA Compliant,,,{94C5C066-F4A4-4748-9726-68BB4496643C},14
+-66.66833391,45.98271596,661,340 Sunset Dr,11S Prospect ,Standard on Metal Pole,Concrete,Yes Monolithic,829,No,,No,No,Good,Good,,Other,Other,Level 2: Accessible,,,{12889A32-EF21-410B-AFF4-3D124C699B0A},11
+-66.63510984,46.00954611,662,1125 Brookside Dr,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,36,No,,No,No,Good,Good,,Other,Other,Level 3: Not Accessible,,,{6AB93120-029C-4436-B4BF-332529291AFE},13
+-66.69728193,45.95483979,663,281 Rainsford Ln,15S Hanwell,Standard on Metal Pole,Concrete,Yes Boulevard,42,No,,No,No,,,1,,,Level 2: Accessible,,,{CBA3B010-42EA-46C7-AD91-A04D2D1932DC},15
+-66.68451385,45.94900489,664,665 Prospect ,15S Hanwell,Standard on Metal Pole,Dirt,Yes Boulevard,44,No,,No,No,,,,,,Level 2: Accessible,,,{936E45CF-5637-4DB7-8913-21EC1EC751C4},15
+-66.68574224,45.94937441,665,640 Prospect,14N Barkers Point,Standard on Metal Pole,Concrete,No,51,Yes,,No,No,Good,Good ,,,,Level 1: ADA Compliant,,,{F80F3F0E-F9C1-448C-95A7-6C34821DB736},14
+-66.63664484,45.94695932,666,Beaverbrook  / Waterloo,11S Prospect ,Shelter,Concrete,No,868,No,,No,Yes,,,,,,Level 1: ADA Compliant,,,{7701CC78-4D6A-42C4-BCF1-4DF951696852},11
+-66.64201613,45.9611255,667,Kings place,116 Kings Place,Standard on Metal Pole,Concrete,Yes Monolithic,53,Yes,,No,No,,,,Other,,Level 1: ADA Compliant,,,{8E14B5B1-5F6C-4FE2-AEB9-B50E93F619C5},116
+-66.65404908,45.99586668,668,49 Stairs,13S Prospect,Standard on Metal Pole,Dirt,Yes Boulevard,12,No,,No,No,Good,Good,1,,,Level 3: Not Accessible,,,{B69EC733-0E56-4C59-AA66-CF630C805991},13
+-66.63268866,45.97284204,670,35 Dedham,17S Regent,Standard on Metal Pole,Concrete,No,405,,,,,,,,,,Level 2: Accessible,,no,{B5578EC1-5BCB-482F-9699-E405E7A8E244},17S
+-66.61636071,45.91283201,671,Hooper Ct.,116 Kings Place,Standard on Metal Pole,Gravel,No,986,,,No,No,Good,Good,1,Other,,Level 2: Accessible,,,{BA3FC3DC-1ADD-4FB3-BC2B-E18767D08A8D},"116,216"
+-66.66894676,45.96039942,672,183 Hanwell,13 S Prospect,Standard on Metal Pole,Asphalt,Yes Monolithic,59,,,,,,,1,,,Level 1: ADA Compliant,,Roadway,{7431CB31-50F2-499F-85A5-AD7440F16CC5},13S
+-66.63754268,45.96073857,673,Crowne Plaza,16N,Standard on Metal Pole,Concrete,Yes Monolithic,400,,,,,,,,,,Level 1: ADA Compliant,,RW,{4B4D3BF6-EC74-4692-B50A-4A6DACF7BA76},"10,16,18"
+-66.66270114,45.98319502,674,Main Street ,10N,Standard on Metal Pole,Concrete,Yes Monolithic,932,,,,,,,,,,Level 2: Accessible,,,{CEA15B06-2755-4454-9F67-FAC88B6A0A09},
